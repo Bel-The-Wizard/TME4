@@ -1,0 +1,9 @@
+step,problems
+in the raw harvest,1369
+copied unchanged (weights 1),1324
+weights only (R3),20
+re-split (R2),22
+samples removed (R5),2
+"excluded (R1, R2.4, R5)",1
+with flagged samples (R6),27
+in data_final,1368

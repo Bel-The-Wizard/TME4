@@ -1,0 +1,49 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
+\usepackage[english]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage[margin=2.3cm]{geometry}
+\usepackage{microtype}
+\pagestyle{empty}
+\setlength{\parskip}{0.4ex}
+
+\begin{document}
+\begin{center}
+{\large\bfseries Does Underlying Structure Predict Quantum Trainability and Dequantization?}\\[0.4ex]
+Charbel A. Dargham \quad\textperiodcentered\quad 25-line summary
+\end{center}
+
+We ask whether the underlying structure of a learning problem (symmetry, locality, spectrum and data
+complexity) can predict, before training, whether structure-preserving quantum models of it will be
+trainable and resist dequantization. Random circuits suffer barren plateaus (McClean et al.\ 2018);
+building the problem's symmetry into the circuit keeps gradients large through a small dynamical Lie
+algebra (Larocca et al.\ 2022; Ragone et al.\ 2024), but the same smallness can let a classical computer
+imitate the model (Cerezo et al.\ 2025; Goh et al.\ 2023). Only symmetry has a theorem linking the problem
+to the trainability formula; for the other three kinds the link is our working hypothesis. Phase~A builds
+problems, circuits derived from their structure, fingerprints and measurements; Phase~B learns a predictor
+tested on families it has never seen. This study validates the first links: the dataset and the structure.
+
+A problem is one binary learning task at fixed $n$ (4 to 12 qubits),
+$\mathcal{P}_n=(\mathcal{X}_n,\mathcal{Y}_n,\mu_n,\mathcal{E}_n,f^{*})$, where each input determines a
+differential equation through an operator $M(x)$, and the operator fixes the type: GRAPH (Laplacian),
+COVARIANCE (precision matrix), DIAGONAL (clause-penalty Hamiltonian) and QUANTUM (non-commuting
+Hamiltonian). The audit of the raw harvest (1\,379 problems) found TRAIN/TEST leaks, one unbalanced problem,
+degenerate ground states, non-converged molecules and uninformative operators. The raw data were never
+modified; six stated rules produced the final dataset: 1\,368 problems, 58 source groups, 337\,930 samples,
+0 audit failures and 0 failed equation checks.
+
+Each operator becomes a factor graph carrying 12 scale-free features. Q2 (mixed models
+with a random effect per source): the spectral features differ between types and scale differently with $n$,
+but only GRAPH separates, while COVARIANCE, DIAGONAL and QUANTUM stay close; ICC 0.5--0.9 leaves
+18--132 effective observations. Q3 (classifier, one source held out at a time): types are recovered at 0.91
+balanced accuracy, errors fall where the operator definitions predict, but domains within a type are not.
+Q4: features change monotonically with $n$, all 28 forced laws hold exactly and critical XXZ chains follow
+Calabrese--Cardy; only 19 of 177 laws are nameable at $n\le 12$.
+
+The extracted structure is correct, varied beyond construction yet coarse, and lawful in $n$: a predictor built
+on it will see kinds of operators rather than domains, and describe finite sizes rather than asymptotics. Next:
+permutation tests, re-harvesting the 10 XY-periodic problems, Hodge features, then circuits and
+measurements validated on held-out sources.
+\end{document}

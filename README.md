@@ -1,0 +1,9 @@
+# Structure of learning problems: dataset and first analysis
+
+Charbel A. Dargham, M1 Quantum Information, Sorbonne Université (DALAS, TME4, October 2026).
+
+This repository asks whether the underlying structure of a learning problem (symmetry, locality, spectrum and data complexity) can predict, before training, whether structure-preserving quantum models of it will be trainable and resist dequantization. It holds the first stage of that project: a dataset of 1 368 binary learning problems in four types (GRAPH, COVARIANCE, DIAGONAL, QUANTUM), built from 58 independent sources, and a study of whether the structure extracted from them is correct, varied and lawful in the problem size.
+
+`summary/` holds the written summary (`SUMMARY.pdf`) and its 25-line version, `presentation/` the slides, and `results/` every table and figure the analysis produced. The analysis code sits at the top level: `run_analysis.py` runs the four study questions (`q1_describe.py` to `q4_scaling.py`), on top of `analysis_common.py`, `factor_graph.py`, `features.py`, `forced_table.py` and `mixed_models.py`; `tools/build_final_dataset.py` builds the final dataset from the raw harvest, and `tests_analysis/` holds known-answer tests. `references.md` lists the sources, `next_steps.md` what comes after this stage, and `AI_USE_STATEMENT.md` how generative AI was used in the work.
+
+The dataset index (`data_final/harvest.sqlite`, one row per problem with its provenance, equation checks and harvest log) and the build changelog (`data_final/CHANGELOG.md`) are included. The problem folders themselves (`data_final/problems/`, 7.5 GB, with one file above GitHub's 100 MB limit) are not; they are available from the author. Running the analysis needs those folders and the `harvest` package used to build them.

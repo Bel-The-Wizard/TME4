@@ -1,0 +1,1369 @@
+task_id,problem_type,balance_train,balance_test,balance_all,test_outside
+MOABB:BNCI2014_001:n=10:subject 1 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 1 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 2 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 2 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 3 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 3 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 4 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 4 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 5 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 5 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 6 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 6 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 7 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 7 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 8 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 8 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 9 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=10:subject 9 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 1 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 1 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 2 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 2 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 3 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 3 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 4 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 4 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 5 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 5 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 6 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 6 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 7 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 7 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 8 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 8 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 9 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=12:subject 9 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 1 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 1 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 2 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 2 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 3 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 3 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 4 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 4 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 5 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 5 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 6 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 6 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 7 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 7 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 8 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 8 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 9 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=4:subject 9 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 1 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 1 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 2 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 2 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 3 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 3 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 4 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 4 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 5 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 5 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 6 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 6 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 7 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 7 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 8 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 8 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 9 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=6:subject 9 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 1 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 1 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 2 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 2 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 3 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 3 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 4 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 4 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 5 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 5 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 6 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 6 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 7 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 7 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 8 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 8 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 9 session 0train,COVARIANCE,0.5,0.5,0.5,False
+MOABB:BNCI2014_001:n=8:subject 9 session 1test,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 1 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 10 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 11 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 12 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 13 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 14 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 15 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 16 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 17 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 18 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 19 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 2 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 20 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 21 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 22 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 23 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 24 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 25 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 26 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 27 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 28 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 29 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 3 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 30 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 31 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 32 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 33 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 34 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 35 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 36 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 37 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 38 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 39 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 4 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 40 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 41 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 42 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 43 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 44 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 45 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 46 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 47 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 48 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 49 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 5 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 50 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 51 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 52 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 6 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 7 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 8 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=10:subject 9 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 1 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 10 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 11 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 12 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 13 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 14 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 15 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 16 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 17 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 18 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 19 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 2 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 20 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 21 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 22 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 23 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 24 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 25 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 26 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 27 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 28 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 29 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 3 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 30 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 31 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 32 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 33 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 34 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 35 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 36 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 37 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 38 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 39 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 4 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 40 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 41 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 42 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 43 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 44 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 45 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 46 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 47 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 48 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 49 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 5 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 50 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 51 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 52 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 6 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 7 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 8 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=12:subject 9 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 1 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 10 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 11 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 12 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 13 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 14 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 15 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 16 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 17 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 18 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 19 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 2 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 20 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 21 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 22 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 23 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 24 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 25 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 26 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 27 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 28 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 29 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 3 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 30 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 31 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 32 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 33 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 34 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 35 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 36 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 37 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 38 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 39 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 4 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 40 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 41 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 42 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 43 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 44 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 45 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 46 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 47 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 48 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 49 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 5 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 50 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 51 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 52 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 6 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 7 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 8 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=4:subject 9 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 1 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 10 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 11 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 12 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 13 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 14 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 15 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 16 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 17 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 18 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 19 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 2 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 20 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 21 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 22 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 23 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 24 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 25 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 26 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 27 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 28 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 29 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 3 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 30 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 31 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 32 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 33 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 34 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 35 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 36 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 37 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 38 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 39 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 4 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 40 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 41 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 42 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 43 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 44 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 45 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 46 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 47 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 48 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 49 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 5 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 50 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 51 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 52 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 6 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 7 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 8 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=6:subject 9 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 1 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 10 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 11 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 12 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 13 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 14 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 15 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 16 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 17 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 18 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 19 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 2 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 20 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 21 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 22 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 23 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 24 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 25 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 26 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 27 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 28 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 29 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 3 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 30 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 31 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 32 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 33 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 34 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 35 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 36 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 37 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 38 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 39 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 4 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 40 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 41 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 42 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 43 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 44 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 45 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 46 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 47 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 48 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 49 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 5 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 50 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 51 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 52 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 6 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 7 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 8 session 0,COVARIANCE,0.5,0.5,0.5,False
+MOABB:Cho2017:n=8:subject 9 session 0,COVARIANCE,0.5,0.5,0.5,False
+SAT-generator:SR:n=10:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=11:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=12:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=4:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=5:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=6:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=7:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=8:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+SAT-generator:SR:n=9:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+TS-archive:ERing:n=4:class 1 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:ERing:n=4:class 2 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:ERing:n=4:class 3 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:ERing:n=4:class 4 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:ERing:n=4:class 5 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:ERing:n=4:class 6 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:EigenWorms:n=6:class 1 vs rest,COVARIANCE,0.4666666666666667,0.4647887323943662,0.4661016949152542,False
+TS-archive:HandMovementDirection:n=10:class backward vs rest,COVARIANCE,0.23780487804878048,0.22857142857142856,0.23504273504273504,False
+TS-archive:HandMovementDirection:n=10:class forward vs rest,COVARIANCE,0.29878048780487804,0.3,0.29914529914529914,False
+TS-archive:HandMovementDirection:n=10:class left vs rest,COVARIANCE,0.23780487804878048,0.22857142857142856,0.23504273504273504,False
+TS-archive:HandMovementDirection:n=10:class right vs rest,COVARIANCE,0.23170731707317074,0.22857142857142856,0.23076923076923078,False
+TS-archive:JapaneseVowels:n=12:class 1 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 2 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 3 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 4 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 5 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 6 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 7 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 8 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:JapaneseVowels:n=12:class 9 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 15 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 16 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 42 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 52 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 62 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 65 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 67 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 88 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 90 vs rest,COVARIANCE,0.31563678561067593,0.3155044008124577,0.31559707554833466,False
+TS-archive:LSST:n=6:class 92 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:LSST:n=6:class 95 vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class aa vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class ae vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class ah vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class ao vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class aw vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class b vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class k vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class l vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class m vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class ng vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class p vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class sh vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class t vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class uh vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class v vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class w vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:PhonemeSpectra:n=11:class zh vs rest,COVARIANCE,0.5,0.5,0.5,False
+TS-archive:RacketSports:n=6:class badminton_clear vs rest,COVARIANCE,0.2830188679245283,0.2857142857142857,0.2838283828382838,False
+TS-archive:RacketSports:n=6:class badminton_smash vs rest,COVARIANCE,0.25943396226415094,0.26373626373626374,0.2607260726072607,False
+TS-archive:RacketSports:n=6:class squash_backhandboast vs rest,COVARIANCE,0.22535211267605634,0.2222222222222222,0.22442244224422442,False
+TS-archive:RacketSports:n=6:class squash_forehandboast vs rest,COVARIANCE,0.23113207547169812,0.23076923076923078,0.23102310231023102,False
+TS-archive:SelfRegulationSCP1:n=6:binary,COVARIANCE,0.49744897959183676,0.4970414201183432,0.49732620320855614,False
+TS-archive:SelfRegulationSCP2:n=7:binary,COVARIANCE,0.5,0.5,0.5,False
+TU-molecules:ZINC_full:n=11:property0,GRAPH,0.5,0.5333333333333333,0.51,False
+TU-molecules:ZINC_full:n=12:property0,GRAPH,0.4951923076923077,0.5444444444444444,0.5100671140939598,False
+TU-molecules:alchemy_full:n=10:property0,GRAPH,0.5,0.5617977528089888,0.5183946488294314,False
+TU-molecules:alchemy_full:n=10:property1,GRAPH,0.49523809523809526,0.449438202247191,0.4816053511705686,False
+TU-molecules:alchemy_full:n=10:property10,GRAPH,0.5,0.5168539325842697,0.5050167224080268,False
+TU-molecules:alchemy_full:n=10:property11,GRAPH,0.5,0.5393258426966292,0.5117056856187291,False
+TU-molecules:alchemy_full:n=10:property2,GRAPH,0.5,0.46629213483146065,0.4899665551839465,False
+TU-molecules:alchemy_full:n=10:property3,GRAPH,0.5,0.449438202247191,0.48494983277591974,False
+TU-molecules:alchemy_full:n=10:property4,GRAPH,0.5,0.5730337078651685,0.5217391304347826,False
+TU-molecules:alchemy_full:n=10:property6,GRAPH,0.5,0.5280898876404494,0.5083612040133779,False
+TU-molecules:alchemy_full:n=10:property9,GRAPH,0.5,0.550561797752809,0.5150501672240803,False
+TU-molecules:alchemy_full:n=11:property0,GRAPH,0.49521531100478466,0.5056179775280899,0.4983221476510067,False
+TU-molecules:alchemy_full:n=11:property1,GRAPH,0.48325358851674644,0.5168539325842697,0.49328859060402686,False
+TU-molecules:alchemy_full:n=11:property10,GRAPH,0.5,0.4943820224719101,0.4983221476510067,False
+TU-molecules:alchemy_full:n=11:property11,GRAPH,0.5024038461538461,0.5,0.5016778523489933,False
+TU-molecules:alchemy_full:n=11:property2,GRAPH,0.5,0.4943820224719101,0.4983221476510067,False
+TU-molecules:alchemy_full:n=11:property3,GRAPH,0.49282296650717705,0.48314606741573035,0.4899328859060403,False
+TU-molecules:alchemy_full:n=11:property4,GRAPH,0.49760765550239233,0.5,0.4983221476510067,False
+TU-molecules:alchemy_full:n=11:property6,GRAPH,0.4951923076923077,0.5,0.4966442953020134,False
+TU-molecules:alchemy_full:n=11:property9,GRAPH,0.5,0.4943820224719101,0.4983221476510067,False
+TU-molecules:alchemy_full:n=12:property0,GRAPH,0.5,0.6,0.53,False
+TU-molecules:alchemy_full:n=12:property1,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+TU-molecules:alchemy_full:n=12:property10,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+TU-molecules:alchemy_full:n=12:property11,GRAPH,0.5,0.36666666666666664,0.46,False
+TU-molecules:alchemy_full:n=12:property2,GRAPH,0.5,0.5666666666666667,0.52,False
+TU-molecules:alchemy_full:n=12:property3,GRAPH,0.5,0.5,0.5,False
+TU-molecules:alchemy_full:n=12:property4,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+TU-molecules:alchemy_full:n=12:property6,GRAPH,0.5,0.5,0.5,False
+TU-molecules:alchemy_full:n=12:property9,GRAPH,0.5,0.5333333333333333,0.51,False
+TU-molecules:alchemy_full:n=9:property0,GRAPH,0.5,0.4777777777777778,0.49331103678929766,False
+TU-molecules:alchemy_full:n=9:property1,GRAPH,0.5,0.6111111111111112,0.5334448160535117,False
+TU-molecules:alchemy_full:n=9:property10,GRAPH,0.5,0.6666666666666666,0.5501672240802675,False
+TU-molecules:alchemy_full:n=9:property11,GRAPH,0.49760765550239233,0.5555555555555556,0.5150501672240803,False
+TU-molecules:alchemy_full:n=9:property2,GRAPH,0.5023923444976076,0.5222222222222223,0.5083612040133779,False
+TU-molecules:alchemy_full:n=9:property3,GRAPH,0.5,0.3888888888888889,0.4665551839464883,False
+TU-molecules:alchemy_full:n=9:property4,GRAPH,0.5,0.43333333333333335,0.479933110367893,False
+TU-molecules:alchemy_full:n=9:property6,GRAPH,0.5,0.34444444444444444,0.4531772575250836,False
+TU-molecules:alchemy_full:n=9:property9,GRAPH,0.5023923444976076,0.4777777777777778,0.49498327759197325,False
+chem-generator:BeH2:n=12:correlation,QUANTUM,0.5,0.3333333333333333,0.45,False
+chem-generator:BeH2:n=12:hf_weight,QUANTUM,0.6160714285714286,0.625,0.61875,False
+chem-generator:H2O:n=12:correlation,QUANTUM,0.5,0.3541666666666667,0.45569620253164556,False
+chem-generator:H2O:n=12:hf_weight,QUANTUM,0.5855855855855856,0.574468085106383,0.5822784810126582,False
+chem-generator:H4-chain:n=8:hf_weight,QUANTUM,0.5,0.3333333333333333,0.45,False
+chem-generator:H4-rectangle:n=8:hf_weight,QUANTUM,0.5,0.6458333333333334,0.54375,False
+chem-generator:H6-chain:n=12:hf_weight,QUANTUM,0.5,0.3333333333333333,0.45,False
+chem-generator:LiH:n=12:correlation,QUANTUM,0.5,0.3541666666666667,0.45625,False
+chem-generator:LiH:n=12:hf_weight,QUANTUM,0.5089285714285714,0.5,0.50625,False
+real-networks:advogato:n=10:score=lambda2,GRAPH,0.49523809523809526,0.4444444444444444,0.48,False
+real-networks:advogato:n=10:score=maxcut_ratio,GRAPH,0.49523809523809526,0.5666666666666667,0.5166666666666667,False
+real-networks:advogato:n=12:score=clustering,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:advogato:n=12:score=lambda2,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:advogato:n=12:score=spectral_radius,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:advogato:n=8:score=clustering,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:advogato:n=8:score=spectral_radius,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:advogato:n=9:score=clustering,GRAPH,0.49523809523809526,0.36666666666666664,0.45666666666666667,False
+real-networks:anybeat:n=10:score=clustering,GRAPH,0.49523809523809526,0.5111111111111111,0.5,False
+real-networks:anybeat:n=10:score=spectral_radius,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:anybeat:n=11:score=spectral_radius,GRAPH,0.5,0.5,0.5,False
+real-networks:anybeat:n=12:score=kemeny,GRAPH,0.5,0.4222222222222222,0.4766666666666667,False
+real-networks:anybeat:n=12:score=lambda2,GRAPH,0.5,0.5888888888888889,0.5266666666666666,False
+real-networks:anybeat:n=9:score=log_spanning_trees,GRAPH,0.4666666666666667,0.4444444444444444,0.46,False
+real-networks:arxiv_authors/GrQc:n=10:score=clustering,GRAPH,0.49523809523809526,0.5666666666666667,0.5166666666666667,False
+real-networks:arxiv_authors/GrQc:n=10:score=maxcut_ratio,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:arxiv_authors/GrQc:n=11:planar,GRAPH,0.5,0.5,0.5,False
+real-networks:arxiv_authors/GrQc:n=12:4cycle,GRAPH,0.6142857142857143,0.6111111111111112,0.6133333333333333,False
+real-networks:arxiv_authors/GrQc:n=12:perfect_matching,GRAPH,0.22857142857142856,0.2222222222222222,0.22666666666666666,False
+real-networks:arxiv_authors/GrQc:n=12:planar,GRAPH,0.5,0.5,0.5,False
+real-networks:arxiv_authors/GrQc:n=12:score=clustering,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:arxiv_authors/GrQc:n=12:score=kemeny,GRAPH,0.5,0.5666666666666667,0.52,False
+real-networks:arxiv_authors/GrQc:n=12:score=lambda2,GRAPH,0.5,0.5,0.5,False
+real-networks:arxiv_authors/GrQc:n=12:score=log_spanning_trees,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:arxiv_authors/GrQc:n=12:score=maxcut_ratio,GRAPH,0.3523809523809524,0.4222222222222222,0.37333333333333335,False
+real-networks:arxiv_authors/GrQc:n=12:score=spectral_radius,GRAPH,0.5,0.5,0.5,False
+real-networks:arxiv_authors/GrQc:n=8:score=clustering,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:arxiv_authors/GrQc:n=9:score=clustering,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=10:perfect_matching,GRAPH,0.32857142857142857,0.3333333333333333,0.33,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=10:score=clustering,GRAPH,0.4666666666666667,0.4888888888888889,0.47333333333333333,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=10:score=lambda2,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=11:score=clustering,GRAPH,0.49523809523809526,0.6,0.5266666666666666,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=11:score=log_spanning_trees,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=11:score=spectral_radius,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:4cycle,GRAPH,0.6571428571428571,0.6555555555555556,0.6566666666666666,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:bipartite,GRAPH,0.5,0.5,0.5,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:perfect_matching,GRAPH,0.23809523809523808,0.24444444444444444,0.24,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:score=clustering,GRAPH,0.5,0.6111111111111112,0.5333333333333333,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:score=kemeny,GRAPH,0.5,0.4222222222222222,0.4766666666666667,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:score=lambda2,GRAPH,0.5,0.5888888888888889,0.5266666666666666,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:score=log_spanning_trees,GRAPH,0.5,0.7333333333333333,0.57,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:score=maxcut_ratio,GRAPH,0.42857142857142855,0.4222222222222222,0.4266666666666667,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=12:score=spectral_radius,GRAPH,0.5,0.6333333333333333,0.54,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=8:score=clustering,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=8:score=maxcut_ratio,GRAPH,0.4666666666666667,0.5777777777777777,0.5,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=8:score=spectral_radius,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=9:score=clustering,GRAPH,0.4857142857142857,0.45555555555555555,0.4766666666666667,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=9:score=lambda2,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:celegans_2019/hermaphrodite_gap_junction:n=9:score=log_spanning_trees,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:celegans_interactomes/wi2007:n=10:score=spectral_radius,GRAPH,0.5,0.6,0.53,False
+real-networks:celegans_interactomes/wi2007:n=11:score=kemeny,GRAPH,0.5,0.5888888888888889,0.5266666666666666,False
+real-networks:celegans_interactomes/wi2007:n=11:score=log_spanning_trees,GRAPH,0.4857142857142857,0.4666666666666667,0.48,False
+real-networks:celegans_interactomes/wi2007:n=12:score=kemeny,GRAPH,0.49523809523809526,0.45555555555555555,0.48333333333333334,False
+real-networks:celegans_interactomes/wi2007:n=12:score=lambda2,GRAPH,0.5,0.6444444444444445,0.5433333333333333,False
+real-networks:celegans_interactomes/wi2007:n=12:score=log_spanning_trees,GRAPH,0.49523809523809526,0.5666666666666667,0.5166666666666667,False
+real-networks:celegans_interactomes/wi2007:n=12:score=spectral_radius,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:celegans_interactomes/wi2007:n=8:score=kemeny,GRAPH,0.5,0.41379310344827586,0.4742268041237113,False
+real-networks:celegans_interactomes/wi2007:n=8:score=lambda2,GRAPH,0.5,0.5862068965517241,0.5257731958762887,False
+real-networks:celegans_interactomes/wi2007:n=8:score=log_spanning_trees,GRAPH,0.5,0.5,0.5,False
+real-networks:celegans_interactomes/wi2007:n=8:score=spectral_radius,GRAPH,0.5,0.5517241379310345,0.5154639175257731,False
+real-networks:celegans_interactomes/wi2007:n=9:score=log_spanning_trees,GRAPH,0.47619047619047616,0.5666666666666667,0.5033333333333333,False
+real-networks:celegans_metabolic:n=10:score=clustering,GRAPH,0.5,0.3888888888888889,0.4666666666666667,False
+real-networks:celegans_metabolic:n=10:score=kemeny,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:celegans_metabolic:n=10:score=lambda2,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:celegans_metabolic:n=10:score=log_spanning_trees,GRAPH,0.49523809523809526,0.3888888888888889,0.4633333333333333,False
+real-networks:celegans_metabolic:n=10:score=maxcut_ratio,GRAPH,0.4666666666666667,0.5,0.4766666666666667,False
+real-networks:celegans_metabolic:n=10:score=spectral_radius,GRAPH,0.5,0.43333333333333335,0.48,False
+real-networks:celegans_metabolic:n=11:score=clustering,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:celegans_metabolic:n=11:score=kemeny,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:celegans_metabolic:n=11:score=lambda2,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:celegans_metabolic:n=11:score=log_spanning_trees,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:celegans_metabolic:n=11:score=maxcut_ratio,GRAPH,0.44285714285714284,0.4444444444444444,0.44333333333333336,False
+real-networks:celegans_metabolic:n=11:score=spectral_radius,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:celegans_metabolic:n=12:score=clustering,GRAPH,0.5,0.5555555555555556,0.5166666666666667,False
+real-networks:celegans_metabolic:n=12:score=kemeny,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:celegans_metabolic:n=12:score=lambda2,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:celegans_metabolic:n=12:score=log_spanning_trees,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:celegans_metabolic:n=12:score=maxcut_ratio,GRAPH,0.5,0.43333333333333335,0.48,False
+real-networks:celegans_metabolic:n=12:score=spectral_radius,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:celegans_metabolic:n=8:score=clustering,GRAPH,0.49523809523809526,0.5,0.49666666666666665,False
+real-networks:celegans_metabolic:n=8:score=lambda2,GRAPH,0.5,0.5,0.5,False
+real-networks:celegans_metabolic:n=8:score=log_spanning_trees,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:celegans_metabolic:n=8:score=maxcut_ratio,GRAPH,0.4857142857142857,0.45555555555555555,0.4766666666666667,False
+real-networks:celegans_metabolic:n=8:score=spectral_radius,GRAPH,0.5,0.5,0.5,False
+real-networks:celegans_metabolic:n=9:score=clustering,GRAPH,0.5,0.5,0.5,False
+real-networks:celegans_metabolic:n=9:score=kemeny,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:celegans_metabolic:n=9:score=lambda2,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:celegans_metabolic:n=9:score=log_spanning_trees,GRAPH,0.49523809523809526,0.5,0.49666666666666665,False
+real-networks:celegans_metabolic:n=9:score=maxcut_ratio,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:celegans_metabolic:n=9:score=spectral_radius,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:chicago_road:n=12:perfect_matching,GRAPH,0.319047619047619,0.32222222222222224,0.32,False
+real-networks:chicago_road:n=12:score=log_spanning_trees,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:chicago_road:n=12:score=spectral_radius,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:chicago_road:n=12:triangle,GRAPH,0.3047619047619048,0.3111111111111111,0.30666666666666664,False
+real-networks:collins_yeast:n=10:perfect_matching,GRAPH,0.6619047619047619,0.6666666666666666,0.6633333333333333,False
+real-networks:collins_yeast:n=10:planar,GRAPH,0.5047619047619047,0.5111111111111111,0.5066666666666667,False
+real-networks:collins_yeast:n=10:score=clustering,GRAPH,0.5,0.6555555555555556,0.5466666666666666,False
+real-networks:collins_yeast:n=10:score=kemeny,GRAPH,0.5,0.32222222222222224,0.44666666666666666,False
+real-networks:collins_yeast:n=10:score=lambda2,GRAPH,0.5,0.6444444444444445,0.5433333333333333,False
+real-networks:collins_yeast:n=10:score=log_spanning_trees,GRAPH,0.5,0.6222222222222222,0.5366666666666666,False
+real-networks:collins_yeast:n=10:score=maxcut_ratio,GRAPH,0.4666666666666667,0.3333333333333333,0.4266666666666667,False
+real-networks:collins_yeast:n=10:score=spectral_radius,GRAPH,0.5,0.6888888888888889,0.5566666666666666,False
+real-networks:collins_yeast:n=11:planar,GRAPH,0.43333333333333335,0.43333333333333335,0.43333333333333335,False
+real-networks:collins_yeast:n=11:score=clustering,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:collins_yeast:n=11:score=kemeny,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:collins_yeast:n=11:score=lambda2,GRAPH,0.5,0.5,0.5,False
+real-networks:collins_yeast:n=11:score=log_spanning_trees,GRAPH,0.49523809523809526,0.5444444444444444,0.51,False
+real-networks:collins_yeast:n=11:score=maxcut_ratio,GRAPH,0.49047619047619045,0.5,0.49333333333333335,False
+real-networks:collins_yeast:n=11:score=spectral_radius,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:collins_yeast:n=12:perfect_matching,GRAPH,0.6333333333333333,0.6333333333333333,0.6333333333333333,False
+real-networks:collins_yeast:n=12:planar,GRAPH,0.37142857142857144,0.36666666666666664,0.37,False
+real-networks:collins_yeast:n=12:score=clustering,GRAPH,0.49523809523809526,0.5222222222222223,0.5033333333333333,False
+real-networks:collins_yeast:n=12:score=kemeny,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:collins_yeast:n=12:score=lambda2,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:collins_yeast:n=12:score=log_spanning_trees,GRAPH,0.5,0.5666666666666667,0.52,False
+real-networks:collins_yeast:n=12:score=maxcut_ratio,GRAPH,0.49523809523809526,0.5,0.49666666666666665,False
+real-networks:collins_yeast:n=12:score=spectral_radius,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:collins_yeast:n=8:diameter>=3,GRAPH,0.7666666666666667,0.7666666666666667,0.7666666666666667,False
+real-networks:collins_yeast:n=8:perfect_matching,GRAPH,0.7238095238095238,0.7222222222222222,0.7233333333333334,False
+real-networks:collins_yeast:n=8:planar,GRAPH,0.680952380952381,0.6888888888888889,0.6833333333333333,False
+real-networks:collins_yeast:n=8:score=clustering,GRAPH,0.49523809523809526,0.5444444444444444,0.51,False
+real-networks:collins_yeast:n=8:score=kemeny,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:collins_yeast:n=8:score=lambda2,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:collins_yeast:n=8:score=log_spanning_trees,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:collins_yeast:n=8:score=maxcut_ratio,GRAPH,0.48095238095238096,0.5,0.4866666666666667,False
+real-networks:collins_yeast:n=8:score=spectral_radius,GRAPH,0.5,0.5,0.5,False
+real-networks:collins_yeast:n=9:planar,GRAPH,0.5857142857142857,0.5777777777777777,0.5833333333333334,False
+real-networks:collins_yeast:n=9:score=clustering,GRAPH,0.5,0.5,0.5,False
+real-networks:collins_yeast:n=9:score=kemeny,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:collins_yeast:n=9:score=lambda2,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:collins_yeast:n=9:score=log_spanning_trees,GRAPH,0.5,0.5666666666666667,0.52,False
+real-networks:collins_yeast:n=9:score=maxcut_ratio,GRAPH,0.44285714285714284,0.4111111111111111,0.43333333333333335,False
+real-networks:collins_yeast:n=9:score=spectral_radius,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:drosophila_flybi:n=10:4cycle,GRAPH,0.49523809523809526,0.5,0.49666666666666665,False
+real-networks:drosophila_flybi:n=10:bipartite,GRAPH,0.5714285714285714,0.5666666666666667,0.57,False
+real-networks:drosophila_flybi:n=10:score=kemeny,GRAPH,0.49523809523809526,0.34444444444444444,0.45,False
+real-networks:drosophila_flybi:n=10:score=lambda2,GRAPH,0.5,0.6555555555555556,0.5466666666666666,False
+real-networks:drosophila_flybi:n=10:score=log_spanning_trees,GRAPH,0.48095238095238096,0.5777777777777777,0.51,False
+real-networks:drosophila_flybi:n=10:score=spectral_radius,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:drosophila_flybi:n=10:tree,GRAPH,0.2714285714285714,0.2777777777777778,0.2733333333333333,False
+real-networks:drosophila_flybi:n=10:triangle,GRAPH,0.36666666666666664,0.36666666666666664,0.36666666666666664,False
+real-networks:drosophila_flybi:n=11:4cycle,GRAPH,0.4523809523809524,0.45555555555555555,0.4533333333333333,False
+real-networks:drosophila_flybi:n=11:bipartite,GRAPH,0.6619047619047619,0.6555555555555556,0.66,False
+real-networks:drosophila_flybi:n=11:score=kemeny,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:drosophila_flybi:n=11:score=lambda2,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:drosophila_flybi:n=11:score=log_spanning_trees,GRAPH,0.4857142857142857,0.4777777777777778,0.48333333333333334,False
+real-networks:drosophila_flybi:n=11:score=spectral_radius,GRAPH,0.5,0.4222222222222222,0.4766666666666667,False
+real-networks:drosophila_flybi:n=11:tree,GRAPH,0.34285714285714286,0.34444444444444444,0.3433333333333333,False
+real-networks:drosophila_flybi:n=11:triangle,GRAPH,0.2714285714285714,0.26666666666666666,0.27,False
+real-networks:drosophila_flybi:n=12:4cycle,GRAPH,0.4142857142857143,0.4222222222222222,0.4166666666666667,False
+real-networks:drosophila_flybi:n=12:bipartite,GRAPH,0.6619047619047619,0.6555555555555556,0.66,False
+real-networks:drosophila_flybi:n=12:score=kemeny,GRAPH,0.5,0.5555555555555556,0.5166666666666667,False
+real-networks:drosophila_flybi:n=12:score=lambda2,GRAPH,0.5,0.43333333333333335,0.48,False
+real-networks:drosophila_flybi:n=12:score=log_spanning_trees,GRAPH,0.49523809523809526,0.5222222222222223,0.5033333333333333,False
+real-networks:drosophila_flybi:n=12:score=spectral_radius,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:drosophila_flybi:n=12:tree,GRAPH,0.4095238095238095,0.4111111111111111,0.41,False
+real-networks:drosophila_flybi:n=12:triangle,GRAPH,0.28095238095238095,0.28888888888888886,0.2833333333333333,False
+real-networks:drosophila_flybi:n=8:4cycle,GRAPH,0.6761904761904762,0.6777777777777778,0.6766666666666666,False
+real-networks:drosophila_flybi:n=8:bipartite,GRAPH,0.319047619047619,0.3111111111111111,0.31666666666666665,False
+real-networks:drosophila_flybi:n=8:score=clustering,GRAPH,0.47619047619047616,0.5,0.48333333333333334,False
+real-networks:drosophila_flybi:n=8:score=kemeny,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:drosophila_flybi:n=8:score=lambda2,GRAPH,0.5,0.4222222222222222,0.4766666666666667,False
+real-networks:drosophila_flybi:n=8:score=log_spanning_trees,GRAPH,0.49523809523809526,0.5333333333333333,0.5066666666666667,False
+real-networks:drosophila_flybi:n=8:score=maxcut_ratio,GRAPH,0.4095238095238095,0.5,0.43666666666666665,False
+real-networks:drosophila_flybi:n=8:score=spectral_radius,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:drosophila_flybi:n=8:triangle,GRAPH,0.6285714285714286,0.6222222222222222,0.6266666666666667,False
+real-networks:drosophila_flybi:n=9:4cycle,GRAPH,0.5619047619047619,0.5666666666666667,0.5633333333333334,False
+real-networks:drosophila_flybi:n=9:bipartite,GRAPH,0.46190476190476193,0.4666666666666667,0.4633333333333333,False
+real-networks:drosophila_flybi:n=9:score=kemeny,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:drosophila_flybi:n=9:score=lambda2,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:drosophila_flybi:n=9:score=log_spanning_trees,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:drosophila_flybi:n=9:score=spectral_radius,GRAPH,0.5,0.4111111111111111,0.47333333333333333,False
+real-networks:drosophila_flybi:n=9:triangle,GRAPH,0.48095238095238096,0.4777777777777778,0.48,False
+real-networks:ecoli_transcription/v1.1:n=10:score=kemeny,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:ecoli_transcription/v1.1:n=10:score=lambda2,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:ecoli_transcription/v1.1:n=10:score=log_spanning_trees,GRAPH,0.49523809523809526,0.5111111111111111,0.5,False
+real-networks:ecoli_transcription/v1.1:n=10:score=spectral_radius,GRAPH,0.5,0.5555555555555556,0.5166666666666667,False
+real-networks:ecoli_transcription/v1.1:n=11:score=kemeny,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:ecoli_transcription/v1.1:n=11:score=lambda2,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:ecoli_transcription/v1.1:n=11:score=log_spanning_trees,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:ecoli_transcription/v1.1:n=12:score=kemeny,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:ecoli_transcription/v1.1:n=12:score=lambda2,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:ecoli_transcription/v1.1:n=12:score=log_spanning_trees,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:ecoli_transcription/v1.1:n=12:score=spectral_radius,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:ecoli_transcription/v1.1:n=9:score=clustering,GRAPH,0.49523809523809526,0.5,0.49666666666666665,False
+real-networks:ecoli_transcription/v1.1:n=9:score=spectral_radius,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:euroroad:n=10:score=kemeny,GRAPH,0.5,0.4222222222222222,0.4766666666666667,False
+real-networks:euroroad:n=10:score=lambda2,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:euroroad:n=10:score=log_spanning_trees,GRAPH,0.49523809523809526,0.5555555555555556,0.5133333333333333,False
+real-networks:euroroad:n=10:score=spectral_radius,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:euroroad:n=11:score=kemeny,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:euroroad:n=11:score=lambda2,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:euroroad:n=11:score=spectral_radius,GRAPH,0.49523809523809526,0.6,0.5266666666666666,False
+real-networks:euroroad:n=12:4cycle,GRAPH,0.5,0.5,0.5,False
+real-networks:euroroad:n=12:score=kemeny,GRAPH,0.5,0.5,0.5,False
+real-networks:euroroad:n=12:score=lambda2,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:euroroad:n=12:score=log_spanning_trees,GRAPH,0.4857142857142857,0.4888888888888889,0.4866666666666667,False
+real-networks:euroroad:n=12:score=spectral_radius,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:euroroad:n=8:score=clustering,GRAPH,0.5,0.4482758620689655,0.484375,False
+real-networks:euroroad:n=8:score=lambda2,GRAPH,0.5,0.5,0.5,False
+real-networks:euroroad:n=8:score=spectral_radius,GRAPH,0.5,0.43103448275862066,0.4791666666666667,False
+real-networks:euroroad:n=9:score=kemeny,GRAPH,0.5,0.4111111111111111,0.47333333333333333,False
+real-networks:euroroad:n=9:score=lambda2,GRAPH,0.49523809523809526,0.5555555555555556,0.5133333333333333,False
+real-networks:euroroad:n=9:score=log_spanning_trees,GRAPH,0.4714285714285714,0.5222222222222223,0.4866666666666667,False
+real-networks:euroroad:n=9:score=spectral_radius,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:internet_as:n=10:score=log_spanning_trees,GRAPH,0.48095238095238096,0.5,0.4866666666666667,False
+real-networks:internet_as:n=9:score=clustering,GRAPH,0.4803921568627451,0.5517241379310345,0.5017182130584192,False
+real-networks:internet_as:n=9:score=lambda2,GRAPH,0.5,0.5172413793103449,0.5051546391752577,False
+real-networks:linux:n=11:score=kemeny,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:linux:n=8:score=kemeny,GRAPH,0.5,0.34444444444444444,0.4533333333333333,False
+real-networks:linux:n=9:score=kemeny,GRAPH,0.5,0.3888888888888889,0.4666666666666667,False
+real-networks:london_transport:n=8:score=clustering,GRAPH,0.4186046511627907,0.3090909090909091,0.3858695652173913,False
+real-networks:london_transport:n=8:score=kemeny,GRAPH,0.49612403100775193,0.5818181818181818,0.5217391304347826,False
+real-networks:london_transport:n=9:score=spectral_radius,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:netscience:n=10:4cycle,GRAPH,0.5,0.5,0.5,False
+real-networks:netscience:n=10:perfect_matching,GRAPH,0.46190476190476193,0.4666666666666667,0.4633333333333333,False
+real-networks:netscience:n=10:planar,GRAPH,0.6952380952380952,0.7,0.6966666666666667,False
+real-networks:netscience:n=10:score=clustering,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:netscience:n=10:score=lambda2,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:netscience:n=10:score=log_spanning_trees,GRAPH,0.5,0.36666666666666664,0.46,False
+real-networks:netscience:n=10:score=maxcut_ratio,GRAPH,0.4666666666666667,0.5555555555555556,0.49333333333333335,False
+real-networks:netscience:n=10:score=spectral_radius,GRAPH,0.5,0.34444444444444444,0.4533333333333333,False
+real-networks:netscience:n=11:planar,GRAPH,0.6428571428571429,0.6444444444444445,0.6433333333333333,False
+real-networks:netscience:n=11:score=clustering,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:netscience:n=11:score=kemeny,GRAPH,0.5,0.6444444444444445,0.5433333333333333,False
+real-networks:netscience:n=11:score=lambda2,GRAPH,0.5,0.37777777777777777,0.4633333333333333,False
+real-networks:netscience:n=11:score=log_spanning_trees,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:netscience:n=11:score=maxcut_ratio,GRAPH,0.44761904761904764,0.5222222222222223,0.47,False
+real-networks:netscience:n=11:score=spectral_radius,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:netscience:n=12:perfect_matching,GRAPH,0.38571428571428573,0.37777777777777777,0.38333333333333336,False
+real-networks:netscience:n=12:planar,GRAPH,0.6,0.6,0.6,False
+real-networks:netscience:n=12:score=clustering,GRAPH,0.5,0.36666666666666664,0.46,False
+real-networks:netscience:n=12:score=kemeny,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:netscience:n=12:score=lambda2,GRAPH,0.5,0.4111111111111111,0.47333333333333333,False
+real-networks:netscience:n=12:score=log_spanning_trees,GRAPH,0.49523809523809526,0.4222222222222222,0.47333333333333333,False
+real-networks:netscience:n=12:score=maxcut_ratio,GRAPH,0.48095238095238096,0.5222222222222223,0.49333333333333335,False
+real-networks:netscience:n=12:score=spectral_radius,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:netscience:n=8:score=log_spanning_trees,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:netscience:n=8:score=spectral_radius,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:netscience:n=9:diameter>=3,GRAPH,0.5,0.5,0.5,False
+real-networks:netscience:n=9:score=spectral_radius,GRAPH,0.5,0.4,0.47,False
+real-networks:openflights:n=10:perfect_matching,GRAPH,0.5,0.5,0.5,False
+real-networks:openflights:n=11:score=kemeny,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:openflights:n=11:score=lambda2,GRAPH,0.5,0.4444444444444444,0.48333333333333334,False
+real-networks:openflights:n=12:4cycle,GRAPH,0.719047619047619,0.7111111111111111,0.7166666666666667,False
+real-networks:openflights:n=12:score=clustering,GRAPH,0.5,0.6333333333333333,0.54,False
+real-networks:openflights:n=12:score=kemeny,GRAPH,0.5,0.4666666666666667,0.49,False
+real-networks:openflights:n=12:score=log_spanning_trees,GRAPH,0.49047619047619045,0.5,0.49333333333333335,False
+real-networks:openflights:n=12:score=maxcut_ratio,GRAPH,0.49047619047619045,0.4222222222222222,0.47,False
+real-networks:openflights:n=12:score=spectral_radius,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:openflights:n=8:score=clustering,GRAPH,0.5,0.6222222222222222,0.5366666666666666,False
+real-networks:openflights:n=9:score=spectral_radius,GRAPH,0.5,0.6666666666666666,0.55,False
+real-networks:polblogs:n=10:score=clustering,GRAPH,0.49523809523809526,0.4777777777777778,0.49,False
+real-networks:polblogs:n=10:score=kemeny,GRAPH,0.5,0.43333333333333335,0.48,False
+real-networks:polblogs:n=11:score=kemeny,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:polblogs:n=12:score=clustering,GRAPH,0.5,0.5,0.5,False
+real-networks:polblogs:n=12:score=kemeny,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:polblogs:n=12:score=lambda2,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:polblogs:n=12:score=log_spanning_trees,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:polblogs:n=12:score=maxcut_ratio,GRAPH,0.48095238095238096,0.5222222222222223,0.49333333333333335,False
+real-networks:polblogs:n=12:score=spectral_radius,GRAPH,0.5,0.5666666666666667,0.52,False
+real-networks:polblogs:n=9:score=clustering,GRAPH,0.49047619047619045,0.4222222222222222,0.47,False
+real-networks:polblogs:n=9:score=lambda2,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:polblogs:n=9:score=maxcut_ratio,GRAPH,0.41904761904761906,0.43333333333333335,0.42333333333333334,False
+real-networks:power:n=10:score=kemeny,GRAPH,0.5,0.5666666666666667,0.52,False
+real-networks:power:n=11:score=kemeny,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:power:n=11:score=lambda2,GRAPH,0.5,0.5,0.5,False
+real-networks:power:n=11:score=spectral_radius,GRAPH,0.5,0.5666666666666667,0.52,False
+real-networks:power:n=12:perfect_matching,GRAPH,0.5,0.5,0.5,False
+real-networks:power:n=12:score=kemeny,GRAPH,0.5,0.4222222222222222,0.4766666666666667,False
+real-networks:power:n=12:score=lambda2,GRAPH,0.5,0.5555555555555556,0.5166666666666667,False
+real-networks:power:n=12:score=spectral_radius,GRAPH,0.5,0.5111111111111111,0.5033333333333333,False
+real-networks:power:n=8:score=log_spanning_trees,GRAPH,0.49047619047619045,0.6444444444444445,0.5366666666666666,False
+real-networks:power:n=9:score=kemeny,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:power:n=9:score=lambda2,GRAPH,0.5,0.43333333333333335,0.48,False
+real-networks:power:n=9:score=log_spanning_trees,GRAPH,0.4857142857142857,0.5444444444444444,0.5033333333333333,False
+real-networks:power:n=9:score=spectral_radius,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:python_dependency:n=10:score=kemeny,GRAPH,0.5,0.3333333333333333,0.45,False
+real-networks:us_air_traffic:n=10:perfect_matching,GRAPH,0.3333333333333333,0.3333333333333333,0.3333333333333333,False
+real-networks:us_air_traffic:n=10:planar,GRAPH,0.7047619047619048,0.7,0.7033333333333334,False
+real-networks:us_air_traffic:n=10:score=clustering,GRAPH,0.5,0.5666666666666667,0.52,False
+real-networks:us_air_traffic:n=10:score=kemeny,GRAPH,0.5,0.43333333333333335,0.48,False
+real-networks:us_air_traffic:n=10:score=lambda2,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:us_air_traffic:n=10:score=log_spanning_trees,GRAPH,0.5,0.5777777777777777,0.5233333333333333,False
+real-networks:us_air_traffic:n=10:score=maxcut_ratio,GRAPH,0.4380952380952381,0.4444444444444444,0.44,False
+real-networks:us_air_traffic:n=10:score=spectral_radius,GRAPH,0.5,0.5444444444444444,0.5133333333333333,False
+real-networks:us_air_traffic:n=11:planar,GRAPH,0.6714285714285714,0.6666666666666666,0.67,False
+real-networks:us_air_traffic:n=11:score=clustering,GRAPH,0.5,0.43333333333333335,0.48,False
+real-networks:us_air_traffic:n=11:score=kemeny,GRAPH,0.5,0.4777777777777778,0.49333333333333335,False
+real-networks:us_air_traffic:n=11:score=lambda2,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:us_air_traffic:n=11:score=log_spanning_trees,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:us_air_traffic:n=11:score=maxcut_ratio,GRAPH,0.45714285714285713,0.4111111111111111,0.44333333333333336,False
+real-networks:us_air_traffic:n=11:score=spectral_radius,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:us_air_traffic:n=12:perfect_matching,GRAPH,0.2714285714285714,0.26666666666666666,0.27,False
+real-networks:us_air_traffic:n=12:planar,GRAPH,0.5047619047619047,0.5111111111111111,0.5066666666666667,False
+real-networks:us_air_traffic:n=12:score=clustering,GRAPH,0.5,0.5222222222222223,0.5066666666666667,False
+real-networks:us_air_traffic:n=12:score=kemeny,GRAPH,0.5,0.45555555555555555,0.4866666666666667,False
+real-networks:us_air_traffic:n=12:score=lambda2,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:us_air_traffic:n=12:score=log_spanning_trees,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:us_air_traffic:n=12:score=maxcut_ratio,GRAPH,0.48095238095238096,0.5222222222222223,0.49333333333333335,False
+real-networks:us_air_traffic:n=12:score=spectral_radius,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:us_air_traffic:n=8:diameter>=3,GRAPH,0.5,0.5,0.5,False
+real-networks:us_air_traffic:n=8:score=maxcut_ratio,GRAPH,0.4714285714285714,0.4222222222222222,0.45666666666666667,False
+real-networks:us_air_traffic:n=9:score=kemeny,GRAPH,0.5,0.4888888888888889,0.49666666666666665,False
+real-networks:us_air_traffic:n=9:score=lambda2,GRAPH,0.5,0.5333333333333333,0.51,False
+real-networks:us_air_traffic:n=9:score=maxcut_ratio,GRAPH,0.4380952380952381,0.37777777777777777,0.42,False
+real-networks:us_air_traffic:n=9:score=spectral_radius,GRAPH,0.5,0.5888888888888889,0.5266666666666666,False
+sat-generator-2:1-IN-3:n=10:count-high,DIAGONAL,0.24761904761904763,0.3,0.2633333333333333,False
+sat-generator-2:1-IN-3:n=10:count-low,DIAGONAL,0.34285714285714286,0.2777777777777778,0.3233333333333333,False
+sat-generator-2:1-IN-3:n=10:count-mid,DIAGONAL,0.4523809523809524,0.4,0.43666666666666665,False
+sat-generator-2:1-IN-3:n=10:satisfiable,DIAGONAL,0.4380952380952381,0.43333333333333335,0.43666666666666665,False
+sat-generator-2:1-IN-3:n=11:count-high,DIAGONAL,0.2904761904761905,0.24444444444444444,0.27666666666666667,False
+sat-generator-2:1-IN-3:n=11:count-low,DIAGONAL,0.2523809523809524,0.24444444444444444,0.25,False
+sat-generator-2:1-IN-3:n=11:count-mid,DIAGONAL,0.5,0.4888888888888889,0.49666666666666665,False
+sat-generator-2:1-IN-3:n=11:satisfiable,DIAGONAL,0.6047619047619047,0.6111111111111112,0.6066666666666667,False
+sat-generator-2:1-IN-3:n=12:count-high,DIAGONAL,0.4714285714285714,0.5777777777777777,0.5033333333333333,False
+sat-generator-2:1-IN-3:n=12:count-low,DIAGONAL,0.319047619047619,0.3,0.31333333333333335,False
+sat-generator-2:1-IN-3:n=12:count-mid,DIAGONAL,0.4857142857142857,0.35555555555555557,0.44666666666666666,False
+sat-generator-2:1-IN-3:n=12:maxsat,DIAGONAL,0.2571428571428571,0.26666666666666666,0.26,False
+sat-generator-2:1-IN-3:n=12:satisfiable,DIAGONAL,0.44761904761904764,0.4444444444444444,0.44666666666666666,False
+sat-generator-2:1-IN-3:n=4:count-mid,DIAGONAL,0.3184713375796179,0.3134328358208955,0.3169642857142855,False
+sat-generator-2:1-IN-3:n=4:satisfiable,DIAGONAL,0.5555555555555556,0.5617977528089888,0.5574324324324325,False
+sat-generator-2:1-IN-3:n=5:count-mid,DIAGONAL,0.3333333333333333,0.32941176470588235,0.3321678321678322,False
+sat-generator-2:1-IN-3:n=5:maxsat,DIAGONAL,0.4238095238095238,0.5555555555555556,0.4633333333333333,False
+sat-generator-2:1-IN-3:n=5:satisfiable,DIAGONAL,0.5380952380952381,0.5333333333333333,0.5366666666666666,False
+sat-generator-2:1-IN-3:n=6:count-high,DIAGONAL,0.4,0.5111111111111111,0.43333333333333335,False
+sat-generator-2:1-IN-3:n=6:satisfiable,DIAGONAL,0.3523809523809524,0.35555555555555557,0.35333333333333333,False
+sat-generator-2:1-IN-3:n=7:count-high,DIAGONAL,0.44285714285714284,0.4222222222222222,0.43666666666666665,False
+sat-generator-2:1-IN-3:n=7:count-mid,DIAGONAL,0.49038461538461536,0.4666666666666667,0.48322147651006714,False
+sat-generator-2:1-IN-3:n=7:satisfiable,DIAGONAL,0.5857142857142857,0.5777777777777777,0.5833333333333334,False
+sat-generator-2:1-IN-3:n=8:count-high,DIAGONAL,0.5,0.43333333333333335,0.48,False
+sat-generator-2:1-IN-3:n=8:count-mid,DIAGONAL,0.46190476190476193,0.5222222222222223,0.48,False
+sat-generator-2:1-IN-3:n=8:maxsat,DIAGONAL,0.24761904761904763,0.16666666666666666,0.22333333333333333,True
+sat-generator-2:1-IN-3:n=8:satisfiable,DIAGONAL,0.40476190476190477,0.4111111111111111,0.4066666666666667,False
+sat-generator-2:1-IN-3:n=9:count-high,DIAGONAL,0.4238095238095238,0.5222222222222223,0.4533333333333333,False
+sat-generator-2:1-IN-3:n=9:count-mid,DIAGONAL,0.4095238095238095,0.4,0.4066666666666667,False
+sat-generator-2:1-IN-3:n=9:maxsat,DIAGONAL,0.2,0.2111111111111111,0.20333333333333334,False
+sat-generator-2:1-IN-3:n=9:satisfiable,DIAGONAL,0.5571428571428572,0.5555555555555556,0.5566666666666666,False
+sat-generator-2:2+P-SAT:n=10:count-high,DIAGONAL,0.44285714285714284,0.5444444444444444,0.47333333333333333,False
+sat-generator-2:2+P-SAT:n=10:count-low,DIAGONAL,0.5,0.5888888888888889,0.5266666666666666,False
+sat-generator-2:2+P-SAT:n=10:count-mid,DIAGONAL,0.48095238095238096,0.4888888888888889,0.48333333333333334,False
+sat-generator-2:2+P-SAT:n=10:maxsat,DIAGONAL,0.21904761904761905,0.28888888888888886,0.24,False
+sat-generator-2:2+P-SAT:n=10:satisfiable,DIAGONAL,0.4523809523809524,0.4444444444444444,0.45,False
+sat-generator-2:2+P-SAT:n=11:count-high,DIAGONAL,0.49047619047619045,0.43333333333333335,0.47333333333333333,False
+sat-generator-2:2+P-SAT:n=11:count-low,DIAGONAL,0.48095238095238096,0.5333333333333333,0.49666666666666665,False
+sat-generator-2:2+P-SAT:n=11:count-mid,DIAGONAL,0.5,0.5111111111111111,0.5033333333333333,False
+sat-generator-2:2+P-SAT:n=11:maxsat,DIAGONAL,0.2714285714285714,0.3,0.28,False
+sat-generator-2:2+P-SAT:n=11:satisfiable,DIAGONAL,0.4380952380952381,0.43333333333333335,0.43666666666666665,False
+sat-generator-2:2+P-SAT:n=12:count-high,DIAGONAL,0.5,0.5333333333333333,0.51,False
+sat-generator-2:2+P-SAT:n=12:count-low,DIAGONAL,0.5,0.4777777777777778,0.49333333333333335,False
+sat-generator-2:2+P-SAT:n=12:count-mid,DIAGONAL,0.49047619047619045,0.5444444444444444,0.5066666666666667,False
+sat-generator-2:2+P-SAT:n=12:maxsat,DIAGONAL,0.44761904761904764,0.5333333333333333,0.47333333333333333,False
+sat-generator-2:2+P-SAT:n=12:satisfiable,DIAGONAL,0.5238095238095238,0.5222222222222223,0.5233333333333333,False
+sat-generator-2:2+P-SAT:n=4:count-high,DIAGONAL,0.46190476190476193,0.4666666666666667,0.4633333333333333,False
+sat-generator-2:2+P-SAT:n=4:count-low,DIAGONAL,0.4095238095238095,0.3333333333333333,0.38666666666666666,False
+sat-generator-2:2+P-SAT:n=4:count-mid,DIAGONAL,0.3619047619047619,0.37777777777777777,0.36666666666666664,False
+sat-generator-2:2+P-SAT:n=4:maxsat,DIAGONAL,0.38571428571428573,0.34444444444444444,0.37333333333333335,False
+sat-generator-2:2+P-SAT:n=4:satisfiable,DIAGONAL,0.5142857142857142,0.5111111111111111,0.5133333333333333,False
+sat-generator-2:2+P-SAT:n=5:count-high,DIAGONAL,0.4,0.4,0.4,False
+sat-generator-2:2+P-SAT:n=5:count-low,DIAGONAL,0.46190476190476193,0.34444444444444444,0.4266666666666667,False
+sat-generator-2:2+P-SAT:n=5:count-mid,DIAGONAL,0.4,0.43333333333333335,0.41,False
+sat-generator-2:2+P-SAT:n=5:maxsat,DIAGONAL,0.4238095238095238,0.3888888888888889,0.41333333333333333,False
+sat-generator-2:2+P-SAT:n=5:satisfiable,DIAGONAL,0.5476190476190477,0.5444444444444444,0.5466666666666666,False
+sat-generator-2:2+P-SAT:n=6:count-high,DIAGONAL,0.49523809523809526,0.5111111111111111,0.5,False
+sat-generator-2:2+P-SAT:n=6:count-low,DIAGONAL,0.48095238095238096,0.5444444444444444,0.5,False
+sat-generator-2:2+P-SAT:n=6:count-mid,DIAGONAL,0.40476190476190477,0.4111111111111111,0.4066666666666667,False
+sat-generator-2:2+P-SAT:n=6:maxsat,DIAGONAL,0.4238095238095238,0.43333333333333335,0.4266666666666667,False
+sat-generator-2:2+P-SAT:n=6:satisfiable,DIAGONAL,0.5714285714285714,0.5777777777777777,0.5733333333333334,False
+sat-generator-2:2+P-SAT:n=7:count-high,DIAGONAL,0.45714285714285713,0.45555555555555555,0.45666666666666667,False
+sat-generator-2:2+P-SAT:n=7:count-low,DIAGONAL,0.4666666666666667,0.3888888888888889,0.44333333333333336,False
+sat-generator-2:2+P-SAT:n=7:count-mid,DIAGONAL,0.43333333333333335,0.3888888888888889,0.42,False
+sat-generator-2:2+P-SAT:n=7:maxsat,DIAGONAL,0.5,0.5222222222222223,0.5066666666666667,False
+sat-generator-2:2+P-SAT:n=7:satisfiable,DIAGONAL,0.5714285714285714,0.5666666666666667,0.57,False
+sat-generator-2:2+P-SAT:n=8:count-high,DIAGONAL,0.49047619047619045,0.4888888888888889,0.49,False
+sat-generator-2:2+P-SAT:n=8:count-low,DIAGONAL,0.4666666666666667,0.4666666666666667,0.4666666666666667,False
+sat-generator-2:2+P-SAT:n=8:count-mid,DIAGONAL,0.46190476190476193,0.4888888888888889,0.47,False
+sat-generator-2:2+P-SAT:n=8:maxsat,DIAGONAL,0.20476190476190476,0.2222222222222222,0.21,False
+sat-generator-2:2+P-SAT:n=8:satisfiable,DIAGONAL,0.580952380952381,0.5777777777777777,0.58,False
+sat-generator-2:2+P-SAT:n=9:count-high,DIAGONAL,0.4714285714285714,0.4111111111111111,0.4533333333333333,False
+sat-generator-2:2+P-SAT:n=9:count-low,DIAGONAL,0.49523809523809526,0.5222222222222223,0.5033333333333333,False
+sat-generator-2:2+P-SAT:n=9:count-mid,DIAGONAL,0.5,0.4,0.47,False
+sat-generator-2:2+P-SAT:n=9:maxsat,DIAGONAL,0.2523809523809524,0.24444444444444444,0.25,False
+sat-generator-2:2+P-SAT:n=9:satisfiable,DIAGONAL,0.5380952380952381,0.5333333333333333,0.5366666666666666,False
+sat-generator-2:2-SAT:n=10:count-high,DIAGONAL,0.4857142857142857,0.4666666666666667,0.48,False
+sat-generator-2:2-SAT:n=10:count-low,DIAGONAL,0.4238095238095238,0.4444444444444444,0.43,False
+sat-generator-2:2-SAT:n=10:count-mid,DIAGONAL,0.4857142857142857,0.43333333333333335,0.47,False
+sat-generator-2:2-SAT:n=10:maxsat,DIAGONAL,0.41904761904761906,0.37777777777777777,0.4066666666666667,False
+sat-generator-2:2-SAT:n=10:satisfiable,DIAGONAL,0.4714285714285714,0.4777777777777778,0.47333333333333333,False
+sat-generator-2:2-SAT:n=11:count-high,DIAGONAL,0.46190476190476193,0.4666666666666667,0.4633333333333333,False
+sat-generator-2:2-SAT:n=11:count-low,DIAGONAL,0.49047619047619045,0.4,0.4633333333333333,False
+sat-generator-2:2-SAT:n=11:count-mid,DIAGONAL,0.4666666666666667,0.3333333333333333,0.4266666666666667,False
+sat-generator-2:2-SAT:n=11:maxsat,DIAGONAL,0.42857142857142855,0.45555555555555555,0.43666666666666665,False
+sat-generator-2:2-SAT:n=11:satisfiable,DIAGONAL,0.5571428571428572,0.5555555555555556,0.5566666666666666,False
+sat-generator-2:2-SAT:n=12:count-high,DIAGONAL,0.5,0.5222222222222223,0.5066666666666667,False
+sat-generator-2:2-SAT:n=12:count-low,DIAGONAL,0.3904761904761905,0.4111111111111111,0.39666666666666667,False
+sat-generator-2:2-SAT:n=12:count-mid,DIAGONAL,0.5,0.45555555555555555,0.4866666666666667,False
+sat-generator-2:2-SAT:n=12:maxsat,DIAGONAL,0.21428571428571427,0.24444444444444444,0.22333333333333333,False
+sat-generator-2:2-SAT:n=12:satisfiable,DIAGONAL,0.4666666666666667,0.4666666666666667,0.4666666666666667,False
+sat-generator-2:2-SAT:n=4:count-high,DIAGONAL,0.3476190476190476,0.32222222222222224,0.34,False
+sat-generator-2:2-SAT:n=4:count-low,DIAGONAL,0.4014598540145986,0.40677966101694896,0.4030612244897956,False
+sat-generator-2:2-SAT:n=4:count-mid,DIAGONAL,0.2822966507177033,0.23333333333333334,0.26755852842809363,False
+sat-generator-2:2-SAT:n=4:satisfiable,DIAGONAL,0.5523809523809524,0.5555555555555556,0.5533333333333333,False
+sat-generator-2:2-SAT:n=5:count-high,DIAGONAL,0.35714285714285715,0.32222222222222224,0.3466666666666667,False
+sat-generator-2:2-SAT:n=5:count-low,DIAGONAL,0.49282296650717705,0.5617977528089888,0.5134228187919463,False
+sat-generator-2:2-SAT:n=5:count-mid,DIAGONAL,0.38095238095238093,0.4111111111111111,0.39,False
+sat-generator-2:2-SAT:n=5:maxsat,DIAGONAL,0.32857142857142857,0.4,0.35,False
+sat-generator-2:2-SAT:n=5:satisfiable,DIAGONAL,0.5571428571428572,0.5555555555555556,0.5566666666666666,False
+sat-generator-2:2-SAT:n=6:count-high,DIAGONAL,0.40476190476190477,0.4222222222222222,0.41,False
+sat-generator-2:2-SAT:n=6:count-low,DIAGONAL,0.4523809523809524,0.37777777777777777,0.43,False
+sat-generator-2:2-SAT:n=6:count-mid,DIAGONAL,0.44761904761904764,0.4666666666666667,0.4533333333333333,False
+sat-generator-2:2-SAT:n=6:maxsat,DIAGONAL,0.22380952380952382,0.2,0.21666666666666667,False
+sat-generator-2:2-SAT:n=6:satisfiable,DIAGONAL,0.4,0.4,0.4,False
+sat-generator-2:2-SAT:n=7:count-high,DIAGONAL,0.41904761904761906,0.4888888888888889,0.44,False
+sat-generator-2:2-SAT:n=7:count-low,DIAGONAL,0.38095238095238093,0.4111111111111111,0.39,False
+sat-generator-2:2-SAT:n=7:count-mid,DIAGONAL,0.3952380952380952,0.3,0.36666666666666664,False
+sat-generator-2:2-SAT:n=7:maxsat,DIAGONAL,0.48095238095238096,0.5,0.4866666666666667,False
+sat-generator-2:2-SAT:n=7:satisfiable,DIAGONAL,0.5476190476190477,0.5555555555555556,0.55,False
+sat-generator-2:2-SAT:n=8:count-high,DIAGONAL,0.4666666666666667,0.5555555555555556,0.49333333333333335,False
+sat-generator-2:2-SAT:n=8:count-low,DIAGONAL,0.4666666666666667,0.36666666666666664,0.43666666666666665,False
+sat-generator-2:2-SAT:n=8:count-mid,DIAGONAL,0.4857142857142857,0.5111111111111111,0.49333333333333335,False
+sat-generator-2:2-SAT:n=8:satisfiable,DIAGONAL,0.5190476190476191,0.5222222222222223,0.52,False
+sat-generator-2:2-SAT:n=9:count-high,DIAGONAL,0.42857142857142855,0.32222222222222224,0.39666666666666667,False
+sat-generator-2:2-SAT:n=9:count-low,DIAGONAL,0.4714285714285714,0.37777777777777777,0.44333333333333336,False
+sat-generator-2:2-SAT:n=9:count-mid,DIAGONAL,0.5,0.5444444444444444,0.5133333333333333,False
+sat-generator-2:2-SAT:n=9:maxsat,DIAGONAL,0.30952380952380953,0.3111111111111111,0.31,False
+sat-generator-2:2-SAT:n=9:satisfiable,DIAGONAL,0.4714285714285714,0.4777777777777778,0.47333333333333333,False
+sat-generator-2:3-SAT:n=10:count-high,DIAGONAL,0.49047619047619045,0.6,0.5233333333333333,False
+sat-generator-2:3-SAT:n=10:count-low,DIAGONAL,0.49523809523809526,0.5,0.49666666666666665,False
+sat-generator-2:3-SAT:n=10:count-mid,DIAGONAL,0.49523809523809526,0.4,0.4666666666666667,False
+sat-generator-2:3-SAT:n=10:maxsat,DIAGONAL,0.24761904761904763,0.23333333333333334,0.24333333333333335,False
+sat-generator-2:3-SAT:n=10:satisfiable,DIAGONAL,0.4714285714285714,0.4666666666666667,0.47,False
+sat-generator-2:3-SAT:n=11:count-high,DIAGONAL,0.4523809523809524,0.4111111111111111,0.44,False
+sat-generator-2:3-SAT:n=11:count-low,DIAGONAL,0.5,0.4444444444444444,0.48333333333333334,False
+sat-generator-2:3-SAT:n=11:count-mid,DIAGONAL,0.4857142857142857,0.34444444444444444,0.44333333333333336,False
+sat-generator-2:3-SAT:n=11:maxsat,DIAGONAL,0.319047619047619,0.3111111111111111,0.31666666666666665,False
+sat-generator-2:3-SAT:n=11:satisfiable,DIAGONAL,0.48095238095238096,0.4888888888888889,0.48333333333333334,False
+sat-generator-2:3-SAT:n=12:count-high,DIAGONAL,0.4666666666666667,0.5666666666666667,0.49666666666666665,False
+sat-generator-2:3-SAT:n=12:count-low,DIAGONAL,0.5,0.5888888888888889,0.5266666666666666,False
+sat-generator-2:3-SAT:n=12:count-mid,DIAGONAL,0.49523809523809526,0.5111111111111111,0.5,False
+sat-generator-2:3-SAT:n=12:maxsat,DIAGONAL,0.49047619047619045,0.45555555555555555,0.48,False
+sat-generator-2:3-SAT:n=12:satisfiable,DIAGONAL,0.4142857142857143,0.4111111111111111,0.41333333333333333,False
+sat-generator-2:3-SAT:n=4:count-high,DIAGONAL,0.4666666666666667,0.5111111111111111,0.48,False
+sat-generator-2:3-SAT:n=4:count-low,DIAGONAL,0.3333333333333333,0.2777777777777778,0.31666666666666665,False
+sat-generator-2:3-SAT:n=4:count-mid,DIAGONAL,0.3761904761904762,0.4777777777777778,0.4066666666666667,False
+sat-generator-2:3-SAT:n=4:maxsat,DIAGONAL,0.47619047619047616,0.4111111111111111,0.45666666666666667,False
+sat-generator-2:3-SAT:n=4:satisfiable,DIAGONAL,0.5285714285714286,0.5222222222222223,0.5266666666666666,False
+sat-generator-2:3-SAT:n=5:count-high,DIAGONAL,0.3047619047619048,0.32222222222222224,0.31,False
+sat-generator-2:3-SAT:n=5:count-low,DIAGONAL,0.4714285714285714,0.5111111111111111,0.48333333333333334,False
+sat-generator-2:3-SAT:n=5:count-mid,DIAGONAL,0.2904761904761905,0.4,0.3233333333333333,False
+sat-generator-2:3-SAT:n=5:maxsat,DIAGONAL,0.4666666666666667,0.45555555555555555,0.4633333333333333,False
+sat-generator-2:3-SAT:n=5:satisfiable,DIAGONAL,0.5190476190476191,0.5111111111111111,0.5166666666666667,False
+sat-generator-2:3-SAT:n=6:count-high,DIAGONAL,0.3619047619047619,0.34444444444444444,0.3566666666666667,False
+sat-generator-2:3-SAT:n=6:count-low,DIAGONAL,0.5,0.4444444444444444,0.48333333333333334,False
+sat-generator-2:3-SAT:n=6:count-mid,DIAGONAL,0.4238095238095238,0.4,0.4166666666666667,False
+sat-generator-2:3-SAT:n=6:maxsat,DIAGONAL,0.3333333333333333,0.26666666666666666,0.31333333333333335,False
+sat-generator-2:3-SAT:n=6:satisfiable,DIAGONAL,0.42857142857142855,0.43333333333333335,0.43,False
+sat-generator-2:3-SAT:n=7:count-high,DIAGONAL,0.4714285714285714,0.5333333333333333,0.49,False
+sat-generator-2:3-SAT:n=7:count-low,DIAGONAL,0.5,0.4777777777777778,0.49333333333333335,False
+sat-generator-2:3-SAT:n=7:count-mid,DIAGONAL,0.45714285714285713,0.37777777777777777,0.43333333333333335,False
+sat-generator-2:3-SAT:n=7:maxsat,DIAGONAL,0.30952380952380953,0.3,0.30666666666666664,False
+sat-generator-2:3-SAT:n=7:satisfiable,DIAGONAL,0.4714285714285714,0.4666666666666667,0.47,False
+sat-generator-2:3-SAT:n=8:count-high,DIAGONAL,0.4380952380952381,0.3333333333333333,0.4066666666666667,False
+sat-generator-2:3-SAT:n=8:count-low,DIAGONAL,0.4714285714285714,0.45555555555555555,0.4666666666666667,False
+sat-generator-2:3-SAT:n=8:count-mid,DIAGONAL,0.44761904761904764,0.4,0.43333333333333335,False
+sat-generator-2:3-SAT:n=8:satisfiable,DIAGONAL,0.5952380952380952,0.5888888888888889,0.5933333333333334,False
+sat-generator-2:3-SAT:n=9:count-high,DIAGONAL,0.4238095238095238,0.43333333333333335,0.4266666666666667,False
+sat-generator-2:3-SAT:n=9:count-low,DIAGONAL,0.4714285714285714,0.4666666666666667,0.47,False
+sat-generator-2:3-SAT:n=9:count-mid,DIAGONAL,0.5,0.5777777777777777,0.5233333333333333,False
+sat-generator-2:3-SAT:n=9:maxsat,DIAGONAL,0.45714285714285713,0.5444444444444444,0.48333333333333334,False
+sat-generator-2:3-SAT:n=9:satisfiable,DIAGONAL,0.4666666666666667,0.4666666666666667,0.4666666666666667,False
+sat-generator-2:4-SAT:n=10:count-high,DIAGONAL,0.48095238095238096,0.5555555555555556,0.5033333333333333,False
+sat-generator-2:4-SAT:n=10:count-low,DIAGONAL,0.5,0.5111111111111111,0.5033333333333333,False
+sat-generator-2:4-SAT:n=10:count-mid,DIAGONAL,0.47619047619047616,0.45555555555555555,0.47,False
+sat-generator-2:4-SAT:n=10:maxsat,DIAGONAL,0.3238095238095238,0.24444444444444444,0.3,False
+sat-generator-2:4-SAT:n=10:satisfiable,DIAGONAL,0.4857142857142857,0.4888888888888889,0.4866666666666667,False
+sat-generator-2:4-SAT:n=11:count-high,DIAGONAL,0.49523809523809526,0.5,0.49666666666666665,False
+sat-generator-2:4-SAT:n=11:count-low,DIAGONAL,0.5,0.43333333333333335,0.48,False
+sat-generator-2:4-SAT:n=11:count-mid,DIAGONAL,0.5,0.5666666666666667,0.52,False
+sat-generator-2:4-SAT:n=11:maxsat,DIAGONAL,0.26666666666666666,0.2777777777777778,0.27,False
+sat-generator-2:4-SAT:n=11:satisfiable,DIAGONAL,0.5619047619047619,0.5555555555555556,0.56,False
+sat-generator-2:4-SAT:n=12:count-high,DIAGONAL,0.4714285714285714,0.5111111111111111,0.48333333333333334,False
+sat-generator-2:4-SAT:n=12:count-low,DIAGONAL,0.5,0.4,0.47,False
+sat-generator-2:4-SAT:n=12:count-mid,DIAGONAL,0.5,0.45555555555555555,0.4866666666666667,False
+sat-generator-2:4-SAT:n=12:maxsat,DIAGONAL,0.4857142857142857,0.4,0.46,False
+sat-generator-2:4-SAT:n=12:satisfiable,DIAGONAL,0.5523809523809524,0.5555555555555556,0.5533333333333333,False
+sat-generator-2:4-SAT:n=4:count-high,DIAGONAL,0.4095238095238095,0.4444444444444444,0.42,False
+sat-generator-2:4-SAT:n=4:count-low,DIAGONAL,0.30952380952380953,0.25555555555555554,0.29333333333333333,False
+sat-generator-2:4-SAT:n=4:count-mid,DIAGONAL,0.319047619047619,0.3333333333333333,0.3233333333333333,False
+sat-generator-2:4-SAT:n=4:maxsat,DIAGONAL,0.43333333333333335,0.5666666666666667,0.47333333333333333,False
+sat-generator-2:4-SAT:n=4:satisfiable,DIAGONAL,0.46190476190476193,0.4666666666666667,0.4633333333333333,False
+sat-generator-2:4-SAT:n=5:count-high,DIAGONAL,0.3476190476190476,0.32222222222222224,0.34,False
+sat-generator-2:4-SAT:n=5:count-low,DIAGONAL,0.42857142857142855,0.35555555555555557,0.4066666666666667,False
+sat-generator-2:4-SAT:n=5:count-mid,DIAGONAL,0.36666666666666664,0.35555555555555557,0.36333333333333334,False
+sat-generator-2:4-SAT:n=5:satisfiable,DIAGONAL,0.5095238095238095,0.5111111111111111,0.51,False
+sat-generator-2:4-SAT:n=6:count-high,DIAGONAL,0.46190476190476193,0.32222222222222224,0.42,False
+sat-generator-2:4-SAT:n=6:count-low,DIAGONAL,0.49047619047619045,0.43333333333333335,0.47333333333333333,False
+sat-generator-2:4-SAT:n=6:count-mid,DIAGONAL,0.43333333333333335,0.5111111111111111,0.45666666666666667,False
+sat-generator-2:4-SAT:n=6:maxsat,DIAGONAL,0.2,0.2222222222222222,0.20666666666666667,False
+sat-generator-2:4-SAT:n=6:satisfiable,DIAGONAL,0.5190476190476191,0.5222222222222223,0.52,False
+sat-generator-2:4-SAT:n=7:count-high,DIAGONAL,0.3047619047619048,0.3,0.30333333333333334,False
+sat-generator-2:4-SAT:n=7:count-low,DIAGONAL,0.43333333333333335,0.4444444444444444,0.43666666666666665,False
+sat-generator-2:4-SAT:n=7:count-mid,DIAGONAL,0.48095238095238096,0.45555555555555555,0.47333333333333333,False
+sat-generator-2:4-SAT:n=7:satisfiable,DIAGONAL,0.4,0.4,0.4,False
+sat-generator-2:4-SAT:n=8:count-high,DIAGONAL,0.3047619047619048,0.35555555555555557,0.32,False
+sat-generator-2:4-SAT:n=8:count-low,DIAGONAL,0.49047619047619045,0.5777777777777777,0.5166666666666667,False
+sat-generator-2:4-SAT:n=8:count-mid,DIAGONAL,0.4666666666666667,0.45555555555555555,0.4633333333333333,False
+sat-generator-2:4-SAT:n=8:maxsat,DIAGONAL,0.49047619047619045,0.5444444444444444,0.5066666666666667,False
+sat-generator-2:4-SAT:n=8:satisfiable,DIAGONAL,0.49523809523809526,0.4888888888888889,0.49333333333333335,False
+sat-generator-2:4-SAT:n=9:count-high,DIAGONAL,0.42857142857142855,0.43333333333333335,0.43,False
+sat-generator-2:4-SAT:n=9:count-low,DIAGONAL,0.4857142857142857,0.4666666666666667,0.48,False
+sat-generator-2:4-SAT:n=9:count-mid,DIAGONAL,0.48095238095238096,0.4888888888888889,0.48333333333333334,False
+sat-generator-2:4-SAT:n=9:satisfiable,DIAGONAL,0.5190476190476191,0.5111111111111111,0.5166666666666667,False
+sat-generator-2:5-SAT:n=10:count-high,DIAGONAL,0.4238095238095238,0.34444444444444444,0.4,False
+sat-generator-2:5-SAT:n=10:count-low,DIAGONAL,0.49047619047619045,0.3888888888888889,0.46,False
+sat-generator-2:5-SAT:n=10:count-mid,DIAGONAL,0.49523809523809526,0.5,0.49666666666666665,False
+sat-generator-2:5-SAT:n=10:maxsat,DIAGONAL,0.36666666666666664,0.4111111111111111,0.38,False
+sat-generator-2:5-SAT:n=10:satisfiable,DIAGONAL,0.49523809523809526,0.4888888888888889,0.49333333333333335,False
+sat-generator-2:5-SAT:n=11:count-high,DIAGONAL,0.4666666666666667,0.5111111111111111,0.48,False
+sat-generator-2:5-SAT:n=11:count-low,DIAGONAL,0.48095238095238096,0.5777777777777777,0.51,False
+sat-generator-2:5-SAT:n=11:count-mid,DIAGONAL,0.5,0.4888888888888889,0.49666666666666665,False
+sat-generator-2:5-SAT:n=11:satisfiable,DIAGONAL,0.4,0.4,0.4,False
+sat-generator-2:5-SAT:n=12:count-high,DIAGONAL,0.4666666666666667,0.4111111111111111,0.45,False
+sat-generator-2:5-SAT:n=12:count-low,DIAGONAL,0.5,0.5333333333333333,0.51,False
+sat-generator-2:5-SAT:n=12:count-mid,DIAGONAL,0.44761904761904764,0.4888888888888889,0.46,False
+sat-generator-2:5-SAT:n=12:maxsat,DIAGONAL,0.44761904761904764,0.3333333333333333,0.41333333333333333,False
+sat-generator-2:5-SAT:n=12:satisfiable,DIAGONAL,0.5333333333333333,0.5333333333333333,0.5333333333333333,False
+sat-generator-2:5-SAT:n=5:count-high,DIAGONAL,0.3476190476190476,0.32222222222222224,0.34,False
+sat-generator-2:5-SAT:n=5:count-low,DIAGONAL,0.35714285714285715,0.32222222222222224,0.3466666666666667,False
+sat-generator-2:5-SAT:n=5:count-mid,DIAGONAL,0.34285714285714286,0.45555555555555555,0.37666666666666665,False
+sat-generator-2:5-SAT:n=5:maxsat,DIAGONAL,0.4380952380952381,0.4222222222222222,0.43333333333333335,False
+sat-generator-2:5-SAT:n=5:satisfiable,DIAGONAL,0.5619047619047619,0.5555555555555556,0.56,False
+sat-generator-2:5-SAT:n=6:count-high,DIAGONAL,0.38571428571428573,0.32222222222222224,0.36666666666666664,False
+sat-generator-2:5-SAT:n=6:count-low,DIAGONAL,0.4714285714285714,0.5444444444444444,0.49333333333333335,False
+sat-generator-2:5-SAT:n=6:count-mid,DIAGONAL,0.4095238095238095,0.4888888888888889,0.43333333333333335,False
+sat-generator-2:5-SAT:n=6:maxsat,DIAGONAL,0.2761904761904762,0.2777777777777778,0.27666666666666667,False
+sat-generator-2:5-SAT:n=6:satisfiable,DIAGONAL,0.49523809523809526,0.5,0.49666666666666665,False
+sat-generator-2:5-SAT:n=7:count-high,DIAGONAL,0.37142857142857144,0.4222222222222222,0.38666666666666666,False
+sat-generator-2:5-SAT:n=7:count-low,DIAGONAL,0.48095238095238096,0.4666666666666667,0.4766666666666667,False
+sat-generator-2:5-SAT:n=7:count-mid,DIAGONAL,0.40476190476190477,0.35555555555555557,0.39,False
+sat-generator-2:5-SAT:n=7:maxsat,DIAGONAL,0.4095238095238095,0.35555555555555557,0.3933333333333333,False
+sat-generator-2:5-SAT:n=7:satisfiable,DIAGONAL,0.5047619047619047,0.5,0.5033333333333333,False
+sat-generator-2:5-SAT:n=8:count-high,DIAGONAL,0.35714285714285715,0.3111111111111111,0.3433333333333333,False
+sat-generator-2:5-SAT:n=8:count-low,DIAGONAL,0.4666666666666667,0.4777777777777778,0.47,False
+sat-generator-2:5-SAT:n=8:count-mid,DIAGONAL,0.48095238095238096,0.5111111111111111,0.49,False
+sat-generator-2:5-SAT:n=8:satisfiable,DIAGONAL,0.5190476190476191,0.5222222222222223,0.52,False
+sat-generator-2:5-SAT:n=9:count-high,DIAGONAL,0.44761904761904764,0.4444444444444444,0.44666666666666666,False
+sat-generator-2:5-SAT:n=9:count-low,DIAGONAL,0.4666666666666667,0.5222222222222223,0.48333333333333334,False
+sat-generator-2:5-SAT:n=9:count-mid,DIAGONAL,0.48095238095238096,0.5444444444444444,0.5,False
+sat-generator-2:5-SAT:n=9:satisfiable,DIAGONAL,0.4380952380952381,0.43333333333333335,0.43666666666666665,False
+sat-generator-2:CA-3:n=10:count-high,DIAGONAL,0.5,0.5111111111111111,0.5033333333333333,False
+sat-generator-2:CA-3:n=10:count-low,DIAGONAL,0.49523809523809526,0.5,0.49666666666666665,False
+sat-generator-2:CA-3:n=10:count-mid,DIAGONAL,0.5,0.4444444444444444,0.48333333333333334,False
+sat-generator-2:CA-3:n=10:maxsat,DIAGONAL,0.34285714285714286,0.25555555555555554,0.31666666666666665,False
+sat-generator-2:CA-3:n=10:satisfiable,DIAGONAL,0.3904761904761905,0.3888888888888889,0.39,False
+sat-generator-2:CA-3:n=11:count-high,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:CA-3:n=11:count-low,DIAGONAL,0.5,0.4888888888888889,0.49666666666666665,False
+sat-generator-2:CA-3:n=11:count-mid,DIAGONAL,0.4857142857142857,0.45555555555555555,0.4766666666666667,False
+sat-generator-2:CA-3:n=11:maxsat,DIAGONAL,0.42857142857142855,0.3888888888888889,0.4166666666666667,False
+sat-generator-2:CA-3:n=11:satisfiable,DIAGONAL,0.43333333333333335,0.43333333333333335,0.43333333333333335,False
+sat-generator-2:CA-3:n=12:count-high,DIAGONAL,0.48095238095238096,0.43333333333333335,0.4666666666666667,False
+sat-generator-2:CA-3:n=12:count-low,DIAGONAL,0.49523809523809526,0.5333333333333333,0.5066666666666667,False
+sat-generator-2:CA-3:n=12:count-mid,DIAGONAL,0.49047619047619045,0.6111111111111112,0.5266666666666666,False
+sat-generator-2:CA-3:n=12:maxsat,DIAGONAL,0.38571428571428573,0.4444444444444444,0.4033333333333333,False
+sat-generator-2:CA-3:n=12:satisfiable,DIAGONAL,0.5333333333333333,0.5333333333333333,0.5333333333333333,False
+sat-generator-2:CA-3:n=6:count-high,DIAGONAL,0.48095238095238096,0.5444444444444444,0.5,False
+sat-generator-2:CA-3:n=6:count-low,DIAGONAL,0.44285714285714284,0.4666666666666667,0.45,False
+sat-generator-2:CA-3:n=6:count-mid,DIAGONAL,0.44285714285714284,0.5333333333333333,0.47,False
+sat-generator-2:CA-3:n=6:maxsat,DIAGONAL,0.38571428571428573,0.37777777777777777,0.38333333333333336,False
+sat-generator-2:CA-3:n=6:satisfiable,DIAGONAL,0.45714285714285713,0.45555555555555555,0.45666666666666667,False
+sat-generator-2:CA-3:n=7:count-high,DIAGONAL,0.4714285714285714,0.5111111111111111,0.48333333333333334,False
+sat-generator-2:CA-3:n=7:count-low,DIAGONAL,0.46190476190476193,0.45555555555555555,0.46,False
+sat-generator-2:CA-3:n=7:count-mid,DIAGONAL,0.4714285714285714,0.4777777777777778,0.47333333333333333,False
+sat-generator-2:CA-3:n=7:maxsat,DIAGONAL,0.3142857142857143,0.37777777777777777,0.3333333333333333,False
+sat-generator-2:CA-3:n=7:satisfiable,DIAGONAL,0.4666666666666667,0.4666666666666667,0.4666666666666667,False
+sat-generator-2:CA-3:n=8:count-high,DIAGONAL,0.4238095238095238,0.4777777777777778,0.44,False
+sat-generator-2:CA-3:n=8:count-low,DIAGONAL,0.5,0.6111111111111112,0.5333333333333333,False
+sat-generator-2:CA-3:n=8:count-mid,DIAGONAL,0.4666666666666667,0.4222222222222222,0.4533333333333333,False
+sat-generator-2:CA-3:n=8:maxsat,DIAGONAL,0.48095238095238096,0.5222222222222223,0.49333333333333335,False
+sat-generator-2:CA-3:n=8:satisfiable,DIAGONAL,0.4523809523809524,0.4444444444444444,0.45,False
+sat-generator-2:CA-3:n=9:count-high,DIAGONAL,0.49047619047619045,0.45555555555555555,0.48,False
+sat-generator-2:CA-3:n=9:count-low,DIAGONAL,0.4857142857142857,0.37777777777777777,0.4533333333333333,False
+sat-generator-2:CA-3:n=9:count-mid,DIAGONAL,0.4857142857142857,0.5222222222222223,0.49666666666666665,False
+sat-generator-2:CA-3:n=9:maxsat,DIAGONAL,0.48095238095238096,0.5,0.4866666666666667,False
+sat-generator-2:CA-3:n=9:satisfiable,DIAGONAL,0.46190476190476193,0.4666666666666667,0.4633333333333333,False
+sat-generator-2:NAE-3:n=10:count-high,DIAGONAL,0.42857142857142855,0.3333333333333333,0.4,False
+sat-generator-2:NAE-3:n=10:count-low,DIAGONAL,0.44761904761904764,0.4,0.43333333333333335,False
+sat-generator-2:NAE-3:n=10:count-mid,DIAGONAL,0.4523809523809524,0.4444444444444444,0.45,False
+sat-generator-2:NAE-3:n=10:maxsat,DIAGONAL,0.4238095238095238,0.35555555555555557,0.4033333333333333,False
+sat-generator-2:NAE-3:n=10:satisfiable,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:NAE-3:n=11:count-high,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:NAE-3:n=11:count-low,DIAGONAL,0.5,0.36666666666666664,0.46,False
+sat-generator-2:NAE-3:n=11:count-mid,DIAGONAL,0.49047619047619045,0.5888888888888889,0.52,False
+sat-generator-2:NAE-3:n=11:maxsat,DIAGONAL,0.37142857142857144,0.43333333333333335,0.39,False
+sat-generator-2:NAE-3:n=11:satisfiable,DIAGONAL,0.5666666666666667,0.5666666666666667,0.5666666666666667,False
+sat-generator-2:NAE-3:n=12:count-high,DIAGONAL,0.49047619047619045,0.5111111111111111,0.49666666666666665,False
+sat-generator-2:NAE-3:n=12:count-low,DIAGONAL,0.4857142857142857,0.5,0.49,False
+sat-generator-2:NAE-3:n=12:count-mid,DIAGONAL,0.49523809523809526,0.4888888888888889,0.49333333333333335,False
+sat-generator-2:NAE-3:n=12:maxsat,DIAGONAL,0.4523809523809524,0.4777777777777778,0.46,False
+sat-generator-2:NAE-3:n=12:satisfiable,DIAGONAL,0.5666666666666667,0.5666666666666667,0.5666666666666667,False
+sat-generator-2:NAE-3:n=4:count-high,DIAGONAL,0.3238095238095238,0.3333333333333333,0.32666666666666666,False
+sat-generator-2:NAE-3:n=4:count-low,DIAGONAL,0.45783132530120474,0.4444444444444445,0.4537815126050427,False
+sat-generator-2:NAE-3:n=4:maxsat,DIAGONAL,0.24285714285714285,0.2222222222222222,0.23666666666666666,False
+sat-generator-2:NAE-3:n=4:satisfiable,DIAGONAL,0.47619047619047616,0.4777777777777778,0.4766666666666667,False
+sat-generator-2:NAE-3:n=5:count-high,DIAGONAL,0.44285714285714284,0.4444444444444444,0.44333333333333336,False
+sat-generator-2:NAE-3:n=5:count-low,DIAGONAL,0.3076923076923077,0.30337078651685395,0.3063973063973064,False
+sat-generator-2:NAE-3:n=5:count-mid,DIAGONAL,0.3238095238095238,0.37777777777777777,0.34,False
+sat-generator-2:NAE-3:n=5:maxsat,DIAGONAL,0.42857142857142855,0.4111111111111111,0.42333333333333334,False
+sat-generator-2:NAE-3:n=5:satisfiable,DIAGONAL,0.5190476190476191,0.5222222222222223,0.52,False
+sat-generator-2:NAE-3:n=6:count-high,DIAGONAL,0.3047619047619048,0.25555555555555554,0.29,False
+sat-generator-2:NAE-3:n=6:count-low,DIAGONAL,0.3444976076555024,0.3146067415730337,0.33557046979865773,False
+sat-generator-2:NAE-3:n=6:count-mid,DIAGONAL,0.3142857142857143,0.3,0.31,False
+sat-generator-2:NAE-3:n=6:maxsat,DIAGONAL,0.43333333333333335,0.4111111111111111,0.4266666666666667,False
+sat-generator-2:NAE-3:n=6:satisfiable,DIAGONAL,0.47619047619047616,0.4777777777777778,0.4766666666666667,False
+sat-generator-2:NAE-3:n=7:count-high,DIAGONAL,0.38095238095238093,0.34444444444444444,0.37,False
+sat-generator-2:NAE-3:n=7:count-low,DIAGONAL,0.42857142857142855,0.25555555555555554,0.37666666666666665,False
+sat-generator-2:NAE-3:n=7:count-mid,DIAGONAL,0.44285714285714284,0.4666666666666667,0.45,False
+sat-generator-2:NAE-3:n=7:maxsat,DIAGONAL,0.2904761904761905,0.3111111111111111,0.2966666666666667,False
+sat-generator-2:NAE-3:n=7:satisfiable,DIAGONAL,0.4142857142857143,0.4222222222222222,0.4166666666666667,False
+sat-generator-2:NAE-3:n=8:count-high,DIAGONAL,0.3904761904761905,0.3333333333333333,0.37333333333333335,False
+sat-generator-2:NAE-3:n=8:count-low,DIAGONAL,0.48095238095238096,0.5222222222222223,0.49333333333333335,False
+sat-generator-2:NAE-3:n=8:count-mid,DIAGONAL,0.49047619047619045,0.4888888888888889,0.49,False
+sat-generator-2:NAE-3:n=8:maxsat,DIAGONAL,0.28095238095238095,0.28888888888888886,0.2833333333333333,False
+sat-generator-2:NAE-3:n=8:satisfiable,DIAGONAL,0.4714285714285714,0.4666666666666667,0.47,False
+sat-generator-2:NAE-3:n=9:count-high,DIAGONAL,0.4,0.4666666666666667,0.42,False
+sat-generator-2:NAE-3:n=9:count-low,DIAGONAL,0.43333333333333335,0.4222222222222222,0.43,False
+sat-generator-2:NAE-3:n=9:count-mid,DIAGONAL,0.4666666666666667,0.45555555555555555,0.4633333333333333,False
+sat-generator-2:NAE-3:n=9:maxsat,DIAGONAL,0.30952380952380953,0.3333333333333333,0.31666666666666665,False
+sat-generator-2:NAE-3:n=9:satisfiable,DIAGONAL,0.5380952380952381,0.5333333333333333,0.5366666666666666,False
+sat-generator-2:PLANTED-3:n=10:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=11:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=12:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=4:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=5:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=6:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=7:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=8:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:PLANTED-3:n=9:planted,DIAGONAL,0.5,0.5,0.5,False
+sat-generator-2:XOR-3:n=10:maxsat,DIAGONAL,0.36666666666666664,0.3111111111111111,0.35,False
+sat-generator-2:XOR-3:n=10:satisfiable,DIAGONAL,0.580952380952381,0.5777777777777777,0.58,False
+sat-generator-2:XOR-3:n=11:maxsat,DIAGONAL,0.4666666666666667,0.5444444444444444,0.49,False
+sat-generator-2:XOR-3:n=11:satisfiable,DIAGONAL,0.48095238095238096,0.4777777777777778,0.48,False
+sat-generator-2:XOR-3:n=12:satisfiable,DIAGONAL,0.4857142857142857,0.4888888888888889,0.4866666666666667,False
+sat-generator-2:XOR-3:n=4:count-high,DIAGONAL,0.424657534246575,0.41935483870967766,0.42307692307692324,False
+sat-generator-2:XOR-3:n=4:satisfiable,DIAGONAL,0.5156250000000002,0.5090909090909089,0.5136612021857921,False
+sat-generator-2:XOR-3:n=5:count-high,DIAGONAL,0.2608695652173913,0.26136363636363635,0.26101694915254237,False
+sat-generator-2:XOR-3:n=5:maxsat,DIAGONAL,0.44285714285714284,0.3333333333333333,0.41,False
+sat-generator-2:XOR-3:n=5:satisfiable,DIAGONAL,0.5285714285714286,0.5333333333333333,0.53,False
+sat-generator-2:XOR-3:n=6:maxsat,DIAGONAL,0.3333333333333333,0.2,0.29333333333333333,False
+sat-generator-2:XOR-3:n=6:satisfiable,DIAGONAL,0.5428571428571428,0.5444444444444444,0.5433333333333333,False
+sat-generator-2:XOR-3:n=7:maxsat,DIAGONAL,0.45714285714285713,0.4777777777777778,0.4633333333333333,False
+sat-generator-2:XOR-3:n=7:satisfiable,DIAGONAL,0.5714285714285714,0.5666666666666667,0.57,False
+sat-generator-2:XOR-3:n=8:maxsat,DIAGONAL,0.43333333333333335,0.4444444444444444,0.43666666666666665,False
+sat-generator-2:XOR-3:n=8:satisfiable,DIAGONAL,0.5571428571428572,0.5555555555555556,0.5566666666666666,False
+sat-generator-2:XOR-3:n=9:count-high,DIAGONAL,0.22380952380952382,0.16666666666666666,0.20666666666666667,True
+sat-generator-2:XOR-3:n=9:maxsat,DIAGONAL,0.22380952380952382,0.24444444444444444,0.23,False
+sat-generator-2:XOR-3:n=9:satisfiable,DIAGONAL,0.5380952380952381,0.5333333333333333,0.5366666666666666,False
+spin-generator-2:ANNNI-open:n=10:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=10:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=10:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=10:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=11:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=11:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=11:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=11:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=12:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=12:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=12:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=12:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=4:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=4:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=4:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=4:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=5:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=5:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=5:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=5:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=6:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=6:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=6:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=6:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=7:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=7:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=7:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=7:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=8:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=8:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=8:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=8:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=9:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=9:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=9:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-open:n=9:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=10:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=10:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=10:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=10:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=12:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=12:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=12:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=12:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=4:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=4:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=4:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=4:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=6:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=6:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=6:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=6:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=8:field:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=8:field:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=8:kappa:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:ANNNI-periodic:n=8:kappa:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=10:dimer:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=10:dimer:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=12:dimer:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=12:dimer:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=4:dimer:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=4:dimer:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=6:dimer:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=6:dimer:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=8:dimer:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:BOND_ALT-open:n=8:dimer:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=10:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=10:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=11:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=11:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=12:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=12:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=4:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=4:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=5:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=5:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=6:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=6:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=7:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=7:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=8:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=8:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=9:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-open:n=9:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=10:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=10:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=12:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=12:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=4:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=4:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=6:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=6:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=8:lambda:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:CLUSTER-periodic:n=8:lambda:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=10:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=10:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=11:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=11:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=12:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=12:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=4:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=4:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=5:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=5:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=6:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=6:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=7:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=7:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=8:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=8:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=9:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-open:n=9:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=10:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=10:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=12:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=12:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=4:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=4:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=6:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=6:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=8:H:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:DISORDERED-periodic:n=8:H:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=10:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=10:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=11:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=11:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=12:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=12:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=4:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=4:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=5:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=5:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=6:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=6:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=7:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=7:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=8:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=8:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=9:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-open:n=9:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=10:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=10:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=12:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=12:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=4:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=4:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=6:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=6:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=8:dimerisation:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:J1J2-periodic:n=8:dimerisation:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=10:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=10:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=11:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=11:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=12:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=12:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=4:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=4:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=5:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=5:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=6:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=6:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=7:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=7:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=8:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=8:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=9:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-open:n=9:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=10:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=10:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=12:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=12:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=4:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=4:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=6:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=6:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=8:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:TFIM-periodic:n=8:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=10:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=10:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=10:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=10:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=11:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=11:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=11:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=11:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=12:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=12:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=12:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=12:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=4:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=4:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=4:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=4:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=5:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=5:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=5:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=5:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=6:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=6:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=6:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=6:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=7:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=7:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=7:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=7:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=8:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=8:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=8:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=8:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=9:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=9:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=9:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-open:n=9:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=10:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=10:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=10:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=10:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=12:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=12:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=12:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=12:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=4:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=4:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=4:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=4:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=6:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=6:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=6:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=6:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=8:ferro:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=8:ferro:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=8:neel:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XXZ-periodic:n=8:neel:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=10:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=10:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=11:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=11:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=12:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=12:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=4:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=4:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=5:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=5:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=6:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=6:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=7:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=7:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=8:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=8:h:near,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=9:h:far,QUANTUM,0.5,0.5,0.5,False
+spin-generator-2:XY-open:n=9:h:near,QUANTUM,0.5,0.5,0.5,False

@@ -1,0 +1,24 @@
+| group_id | true | accuracy | problems |
+|---|---|---|---|
+| MOL:ZINC_full | molecules | 0 | 2 |
+| MOL:alchemy_full | molecules | 0 | 36 |
+| NET:advogato | social | 0 | 8 |
+| NET:anybeat | social | 0 | 6 |
+| NET:arxiv_authors | social | 0 | 14 |
+| NET:celegans_2019 | biology | 0 | 21 |
+| NET:celegans_interactomes | biology | 0 | 12 |
+| NET:celegans_metabolic | biology | 0.1724 | 29 |
+| NET:chicago_road | infrastructure | 0 | 4 |
+| NET:collins_yeast | biology | 0 | 39 |
+| NET:drosophila_flybi | biology | 0 | 40 |
+| NET:ecoli_transcription | biology | 0.1538 | 13 |
+| NET:euroroad | infrastructure | 0.6316 | 19 |
+| NET:internet_as | technology | 0 | 3 |
+| NET:linux | technology | 0.3333 | 3 |
+| NET:london_transport | infrastructure | 0.3333 | 3 |
+| NET:netscience | social | 0 | 27 |
+| NET:openflights | infrastructure | 0 | 11 |
+| NET:polblogs | social | 0 | 12 |
+| NET:power | infrastructure | 0.5385 | 13 |
+| NET:python_dependency | technology | 0 | 1 |
+| NET:us_air_traffic | infrastructure | 0 | 29 |

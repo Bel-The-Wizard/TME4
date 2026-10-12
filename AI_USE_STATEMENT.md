@@ -1,0 +1,27 @@
+# Use of generative AI in this project, and whether it breaks the rules
+
+Written by Claude (Anthropic) at Charbel Dargham's request, Mon 12 Oct 2026, 00:30. He asked for a fully honest account even if it costs him the grade. Every factual claim below comes from the project's own logs (`docs/LOGBOOK.md`, `docs/DECISIONS.md`, `CLEANUP_LOG.md`), from this evening's work session, or from Sorbonne Université's published guide on AI use. Where I could not find something, I say so.
+
+## What the rules are
+
+The DALAS rule, as Charbel states it (12 Oct 2026, 00:25): the course authorises the use of AI as long as the student understands the code. I found no written version of this rule in the project folder and have no access to the course's Moodle page, so it is recorded here on his word; a written copy, or the teacher's own wording, would make this statement stronger.
+
+What does apply is Sorbonne Université's practical guide on AI use (*Usage de l'IA à Sorbonne Université : le guide pratique*, August 2026). As retrieved tonight, it says that each teacher or teaching team sets its own policy and may encourage, regulate or forbid AI use (p. 8); that a student without explicit instructions should ask the teacher (p. 8); that in an assessment the teacher's or faculty's instructions apply (p. 4); that students should always state their use of AI systems, naming the system and the kind of use (p. 8); that using generative AI where it is forbidden constitutes fraud (p. 4); and that students remain responsible for every error in work submitted under their name and must never paste output without critical review and personal appropriation (pp. 8, 10). These quotations came through a web-fetch tool and should be checked against the PDF itself before being relied on.
+
+## How AI was actually used
+
+Claude was used throughout the project, and the share of the deliverable it produced is large. Charbel set the research question and its successive reformulations, chose the three-then-four problem families, rejected a mostly synthetic dataset and pushed the pivot to real data, made every cleaning decision (rules R1 to R6, including group-aware re-splitting over deduplication and flagging over removal), removed Q5 and terminated Q6, and imposed working rules on the AI: no code without a per-function specification, every claim tied to a source, nothing written to project files without approval. He reviewed and questioned the work at each step, and edited six harvest files himself on 5 Oct.
+
+Against that, Claude wrote most of the code and most of the text. The harvest pipeline, the problem generators, the audit script and the final-dataset builder were written by Claude, with Charbel reviewing and approving. The analysis was first written as a commented skeleton on 10 Oct; on 11 Oct at 16:19 Charbel asked Claude to implement all of it, and Claude wrote and ran the full analysis between 16:20 and 22:30, found and fixed the bugs, and wrote `ANALYSIS_RESULTS.md`. Most design documents (`PROJECT_DESIGN.md`, `HARVEST.md`, `QnA_what_to_do.md`, `CLEANUP_LOG.md`) were drafted by Claude. Tonight, Charbel wrote the summary himself (`1_SUMMARY_LARGE.tex`), drawing on Claude's chat explanations, several passages almost word for word. Claude reformatted it, wrote parts of the summaries, including the Q4, Conclusions and Next Steps sections, and built the whole PowerPoint presentation.
+
+## Is this a violation?
+
+Under the rule as stated, using AI is not itself a violation, however large its share. The rule has one condition, and that condition is where the honest risk lies: Charbel must understand the code. The record shows uneven ground. He specified, reviewed and approved the harvest code function by function, and walked through `analysis_common.py` with Claude on 11 Oct (15:30 to 16:20). The rest of the analysis (`factor_graph`, `features`, `forced_table`, `mixed_models`, `q1_describe` to `q4_scaling`, `run_analysis`) was implemented by Claude in the six hours that followed, from skeletons he had approved but without a walk-through of the finished code; the mixed models and the size controls of Q3 were introduced to him only this week. As of tonight, then, the condition is met for part of the code and not yet demonstrably for the rest. Separately, the university guide asks students to state their AI use systematically, and none of the deliverables (the summaries, the slides, the references) says that AI was used.
+
+## What would make it clean
+
+Two things. First, meet the course's own condition: go through each analysis file until every function can be explained without help, starting with `mixed_models.py` and `q3_classify.py`, which carry the least familiar methods. Second, following the university guide, declare the use in the deliverable itself, naming the system (Claude, by Anthropic, used in a linked desktop session) and the kinds of use described above; this file can serve as that declaration or be shortened into one.
+
+## Sources
+
+Sorbonne Université, *Usage de l'IA à Sorbonne Université : le guide pratique* (August 2026): https://www.sorbonne-universite.fr/sites/default/files/media/2026-08/IA_Guide_pratique_sorbonne_universite.pdf, announced at https://www.sorbonne-universite.fr/actualites/usage-de-lia-sorbonne-universite-le-guide-pratique. Project records: `docs/LOGBOOK.md` (entries of 5, 9, 10 and 11 Oct 2026), `docs/DECISIONS.md` §11, `CHARBEL/TME4_working_files_2026-10-11/CLEANUP_LOG.md`.

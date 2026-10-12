@@ -1,0 +1,12 @@
+group_id,true,accuracy,problems
+SAT:1-IN-3,other constraints,0.12903225806451613,31
+SAT:2+P-SAT,random k-SAT,0.6888888888888889,45
+SAT:2-SAT,random k-SAT,0.023255813953488372,43
+SAT:3-SAT,random k-SAT,0.6590909090909091,44
+SAT:4-SAT,random k-SAT,0.8095238095238095,42
+SAT:5-SAT,random k-SAT,0.2972972972972973,37
+SAT:CA-3,structured,0.0,35
+SAT:NAE-3,other constraints,0.1590909090909091,44
+SAT:PLANTED-3,structured,0.0,9
+SAT:SR,structured,0.0,9
+SAT:XOR-3,other constraints,0.0,19

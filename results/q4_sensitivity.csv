@@ -1,0 +1,5 @@
+line,feature,slope_log_n_with_flagged,reading_with_flagged,slope_log_n_without_flagged,reading_without_flagged
+QUANTUM/ANNNI-periodic,entanglement,0.1685839641889631,increases,0.11379420583989651,flat
+QUANTUM/BOND_ALT-open,entanglement,0.21183574900812271,increases,0.0036521739940467398,flat
+QUANTUM/BOND_ALT-open,in_sector_gap,-0.9849563332974592,decreases,-0.30145253501961405,flat
+QUANTUM/CLUSTER-open,entanglement,0.15928222557366947,increases,0.12323394614789734,flat

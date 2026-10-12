@@ -1,0 +1,6 @@
+| problem_type | input_sets | problems |
+|---|---|---|
+| GRAPH | 93 | 345 |
+| COVARIANCE | 398 | 404 |
+| DIAGONAL | 358 | 358 |
+| QUANTUM | 258 | 261 |
