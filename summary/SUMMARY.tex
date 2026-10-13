@@ -193,6 +193,43 @@ QUANTUM & Hamiltonian with non-commuting terms; the input is its ground state & 
 \end{tabularx}
 \end{table}
 
+\textbf{Variables.} Each problem is described by two groups of variables
+(Table~\ref{tab:vars}). The first is recorded at harvest time, one row per
+problem in \texttt{data\_final/harvest.sqlite}; the second is computed from the
+factor graph of each input $M(x)$, a bipartite graph with one node per site and
+one per term of the operator, and summarised over the problem's inputs by the
+median and the interquartile range. All twelve structure variables are unchanged
+when the operator is multiplied by a constant.
+
+\begin{table}[h]
+\centering\small
+\caption{Variables of the dataset.}\label{tab:vars}
+\begin{tabularx}{\linewidth}{@{}l Y@{}}
+\toprule
+Variable & Meaning\\
+\midrule
+\multicolumn{2}{@{}l}{\emph{Recorded per problem}}\\
+type, $n$ & operator type (Table~\ref{tab:types}) and number of sites (qubits), 4 to 12\\
+samples, TRAIN/TEST & number of labelled inputs and their fixed 70/30 split\\
+class balance & share of $+1$ labels, kept within $[0.2, 0.8]$\\
+label rule & how the labels were made (e.g.\ property of the graph, score above the TRAIN median, side of a phase transition)\\
+distinct inputs, conflict rate & number of different inputs, and share of equal inputs carrying different labels\\
+source, group, tier & where the problem comes from, its independent source group (58 in all), and its origin tier\\
+equation check & check method, worst residual and number of failures\\
+\midrule
+\multicolumn{2}{@{}l}{\emph{Structure, computed from the factor graph of each input}}\\
+terms per site & number of terms divided by $n$: how many interactions per site\\
+term sizes (mean; fractions of size 1, 2, $\geq 3$) & how many sites each term acts on: pairwise or many-body\\
+site degree CV & spread of the number of terms per site over its mean: 0 when every site is equally involved\\
+support density & share of site pairs that share at least one term: how far interactions reach\\
+symmetry classes, symmetry fraction & classes of sites that colour refinement cannot tell apart; 1 when all sites look alike, 0 with no symmetry\\
+spectral entropy & entropy of the normalised Laplacian eigenvalues of the factor graph: low when a few modes dominate\\
+participation ratio & $(\sum\lambda)^2/\sum\lambda^2$ over the number of nodes: effective share of modes in use\\
+algebraic connectivity & second-smallest Laplacian eigenvalue: how hard the graph is to cut in two\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
 \textbf{Equation checks} (HARVEST.md \S4). These are run on
 every input. Failures are counted, never fixed, and the final count is 0
 failures.

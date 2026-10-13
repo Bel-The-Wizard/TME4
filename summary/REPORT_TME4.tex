@@ -1,0 +1,128 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
+\usepackage{courier}
+\usepackage[english]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage[margin=1.9cm]{geometry}
+\usepackage{microtype}
+\usepackage{booktabs,tabularx,array}
+\usepackage{titlesec}
+\usepackage{caption}
+\pagestyle{empty}
+\titleformat{\section}{\normalsize\bfseries\scshape}{\thesection.}{0.5em}{}
+\titlespacing*{\section}{0pt}{1.1ex plus .3ex}{0.5ex}
+\setlength{\parskip}{0.3ex}
+\renewcommand{\arraystretch}{1.08}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\captionsetup{font=small,labelfont=bf,skip=3pt}
+\setlength{\textfloatsep}{8pt}
+\setlength{\intextsep}{6pt}
+
+\begin{document}
+\begin{center}
+{\large\bfseries Does Underlying Structure Predict Quantum Trainability and Dequantization?}\\[0.3ex]
+{\small Charbel A. Dargham \quad\textperiodcentered\quad DALAS, Deliverable 1 (TME4): research question and dataset}
+\end{center}
+
+\section{Research question}
+
+\emph{Can the underlying structure of a learning problem predict, before training, whether structure-preserving
+quantum models of it will be trainable and resist dequantization?} Random, structure-free quantum circuits
+are untrainable at scale because their gradients vanish exponentially with the number of qubits (McClean et
+al.\ 2018). Building a problem's symmetry into the circuit keeps the gradients large (Larocca et al.\ 2022;
+Ragone et al.\ 2024), but the same restriction can let a classical computer imitate the model, so that it
+offers no quantum advantage (Cerezo et al.\ 2025). Whether a given problem lands on the useful side is today
+known only after a model has been built and run. We ask whether it can be read off the problem itself, from
+four kinds of structure: symmetry, locality, spectrum and data complexity. Answering it needs two
+ingredients, a large and varied collection of real learning problems, and a way to extract their structure;
+this deliverable builds the first and tests the second.
+
+\section{Data collection}
+
+The unit of observation is a \emph{problem}: one binary learning task on $n$ sites (4 to 12, the number of
+qubits a model of it would use), with its labelled inputs, a fixed 70/30 TRAIN/TEST split and its label rule.
+Each input $x$ is stored with an operator $M(x)$ that defines a differential equation, and the operator fixes
+the problem's type (Table~\ref{tab:types}). The type depends on the mathematics, not the domain: a MaxCut
+instance encodes like a graph, while a 3-SAT formula has three-site terms a graph cannot have.
+
+\begin{table}[h]
+\centering\small
+\caption{Types, sources and counts. Groups are independent sources (one dataset, network or generator).}\label{tab:types}
+\begin{tabularx}{\linewidth}{@{}l l Y r r r@{}}
+\toprule
+Type & Operator $M(x)$ & Sources and collection & Problems & Groups & Samples\\
+\midrule
+GRAPH & graph Laplacian & 20 real networks (Netzschleuder API: biology, social, infrastructure, technology), cut into connected pieces of $n$ nodes; real molecules (Alchemy, ZINC via TUDataset) & 345 & 22 & 100\,782\\
+COVARIANCE & precision matrix & EEG motor imagery (MOABB API: BNCI2014\_001, Cho2017), one problem per subject and session; 9 sensor datasets (UEA archive) & 404 & 11 & 87\,992\\
+DIAGONAL & clause-penalty Hamiltonian & SAT formulas from 11 standard generators (random $k$-SAT, XOR, NAE, planted, community, SR) & 358 & 11 & 107\,400\\
+QUANTUM & Hamiltonian, ground state & 8 spin-chain models (exact ground states on both sides of a phase transition); 6 molecules (Hartree--Fock, Jordan--Wigner) & 261 & 14 & 41\,756\\
+\midrule
+Total & & & 1\,368 & 58 & 337\,930\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Each source was listed, screened, downloaded (with a file hash) and converted by a logged pipeline. A
+candidate problem was kept only if it had at least 100 samples, at least 50 distinct inputs and at most 20\%
+of equal inputs carrying different labels; every rejection is recorded with its reason (for the real
+networks, 892 candidates were checked and 307 kept). Labels are either given by the source (which hand was
+imagined, which class a recording belongs to) or computed exactly from the input (a graph property, the side
+of a phase transition); when a source gives a score, the label is $+1$ above the TRAIN median, so the TEST data
+never influence the cut. Real inputs make up 749 problems (55\%), collected through the Netzschleuder,
+TUDataset and MOABB APIs and the UEA archive; the SAT and spin-chain problems are generated from standard
+models, because in these two domains generated instances are how problems are produced, and every problem
+carries its origin.
+
+\section{Quantitative description and variables}
+
+The final dataset holds 1\,368 problems, 337\,930 samples and 58 groups, with $n$ from 4 to 12 and 1\,107
+distinct input sets (problems sharing their inputs and differing only in their labels). Class balance lies
+in $[0.2, 0.8]$ in every problem. Problems from one group are not independent, so the group, not the problem,
+is the unit of evidence in every later analysis. The variables are listed in Table~\ref{tab:vars}: the
+first are recorded per problem; the second are computed from the \emph{factor graph} of each operator, a
+bipartite graph with one node per site and one per term, joined when the term acts on the site, and
+summarised over a problem's inputs by the median and interquartile range. All are unchanged when the
+operator is multiplied by a constant.
+
+\begin{table}[h]
+\centering\small
+\caption{Variables.}\label{tab:vars}
+\begin{tabularx}{\linewidth}{@{}l Y@{}}
+\toprule
+Variable & Meaning\\
+\midrule
+type, $n$, samples, split & operator type, number of sites, number of labelled inputs, 70/30 TRAIN/TEST\\
+class balance, label rule & share of $+1$ labels; how the labels were made\\
+distinct inputs, conflict rate & number of different inputs; share of equal inputs with different labels\\
+source, group, origin & where the problem comes from, its independent source, real or generated\\
+equation check & check method, worst residual, number of failures (0 in all 1\,368 problems)\\
+\midrule
+terms per site; term sizes & interactions per site; whether terms are pairwise or many-body\\
+site degree spread; support density & whether a few sites dominate; how far interactions reach\\
+symmetry classes and fraction & how many sites look alike under colour refinement (1: all alike, 0: none)\\
+spectral entropy; participation ratio & how many Laplacian modes of the factor graph carry its weight\\
+algebraic connectivity & how hard the factor graph is to cut in two\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\section{Preprocessing and choices}
+
+The raw harvest (1\,379 problems) is never modified; a script with six stated rules builds the final dataset
+from it, and the raw files' checksum is identical before and after. An audit found 0 structural failures and
+five problems in the content, each handled by one choice. Identical inputs on both sides of the split, in 22
+problems, would leak TEST into TRAIN: these problems were re-split with identical inputs kept on one side,
+rather than deduplicated, which would have changed the population, and repeated inputs are weighted so that
+each counts once in TEST. One problem below the class-balance floor was excluded. In 24\% of spin-chain
+samples the ground state was degenerate, so the stored state was arbitrary and the input not reproducible:
+the spin chains were re-harvested with ground states fixed inside a symmetry sector, which cut such samples
+from 642 to 10 on a test run. Two molecule geometries whose Hartree--Fock calculation did not converge had
+untrustworthy labels and were removed. Finally, 475 sensor samples whose operator collapses to the identity
+carry no information and act as a label shortcut; they are flagged rather than removed, and every result is
+reported with and without them. The final dataset passes the audit with 0 failures and 0 leaks. One known
+gap remains: 10 periodic XY spin-chain problems were lost to a solver failure, since fixed, and are to be
+re-harvested.
+
+\end{document}
