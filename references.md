@@ -25,10 +25,15 @@ Marked [checked] where the source was opened or its existence confirmed during t
 - Ansótegui C., Giráldez-Cru J., Levy J. Community structure in industrial SAT instances. *JAIR*. [checked]
 - Agarwal S., Branson K., Belongie S. (2006). Higher order learning with graphs. *ICML*. [checked]
 - Chapman A., Flammia S. T. (2020). Characterization of solvable spin models via graph invariants. *Quantum* 4, 278. [checked]
+- Grohe M., Kersting K., Mladenov M., Selman E. (2014). Dimension reduction via colour refinement. *ESA 2014*, LNCS 8737, 505-516; arXiv:1307.5697. [checked]
 - Kschischang F. R., Frey B. J., Loeliger H.-A. (2001). Factor graphs and the sum-product algorithm. *IEEE Trans. Inf. Theory* 47.
 - Mézard M., Montanari A. (2009). *Information, Physics, and Computation*. Oxford University Press. [checked]
 - Nudelman E., Leyton-Brown K., Hoos H. (2004). Understanding random SAT: beyond the clauses-to-variables ratio. *CP 2004*. [checked]
 - Barachant A. et al. (2012). Multiclass brain-computer interface classification by Riemannian geometry. *IEEE Trans. Biomed. Eng.* 59.
+
+## Structure and function (Logical State Space step)
+- Curto C., Geneson J., Morrison K. (2019). Fixed points of competitive threshold-linear networks. *Neural Computation* 31(1), 94-155; arXiv:1804.00794. [checked]
+- Eckmann B. (1944). Harmonische Funktionen und Randwertaufgaben in einem Komplex. *Commentarii Mathematici Helvetici* 17.
 
 ## Physics
 - Calabrese P., Cardy J. (2004). Entanglement entropy and quantum field theory. *J. Stat. Mech.* P06002, arXiv:hep-th/0405152. [checked]
@@ -37,7 +42,9 @@ Marked [checked] where the source was opened or its existence confirmed during t
 
 ## Quantum machine learning (context and next steps)
 - Berry D. W. et al. (2024). Analyzing prospects for quantum advantage in topological data analysis. *PRX Quantum*.
-- Cerezo M. et al. (2023). Does provable absence of barren plateaus imply classical simulability? arXiv:2312.09121.
+- Cerezo M. et al. (2025). Does provable absence of barren plateaus imply classical simulability? *Nature Communications* 16, 7907; arXiv:2312.09121. [checked]
+- Larocca M., Sauvage F., Sbahi F. M., Verdon G., Coles P. J., Cerezo M. (2022). Group-invariant quantum machine learning. *PRX Quantum* 3, 030341.
+- McClean J. R. et al. (2018). Barren plateaus in quantum neural network training landscapes. *Nature Communications* 9, 4812.
 - Gyurik C., Cade C., Dunjko V. (2022). Towards quantum advantage via topological data analysis. *Quantum*.
 - Lloyd S., Garnerone S., Zanardi P. (2016). Quantum algorithms for topological and geometric analysis of data. *Nature Communications* 7.
 - Ragone M. et al. (2024). A Lie algebraic theory of barren plateaus for deep parameterized quantum circuits. *Nature Communications* 15.
