@@ -1,0 +1,166 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx}
+\usepackage{courier}
+\usepackage[english]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage[margin=1.9cm]{geometry}
+\usepackage{microtype}
+\usepackage{booktabs,tabularx,array}
+\usepackage{titlesec}
+\usepackage{caption}
+\pagestyle{empty}
+\titleformat{\section}{\normalsize\bfseries\scshape}{\thesection.}{0.5em}{}
+\titlespacing*{\section}{0pt}{1.1ex plus .3ex}{0.5ex}
+\setlength{\parskip}{0.3ex}
+\renewcommand{\arraystretch}{1.08}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\captionsetup{font=small,labelfont=bf,skip=3pt}
+\setlength{\textfloatsep}{8pt}
+\setlength{\intextsep}{6pt}
+
+\begin{document}
+\begin{center}
+{\large\bfseries Does Underlying Structure Predict Quantum Trainability and Dequantization?}\\[0.3ex]
+{\small DALAS, Deliverable 1 (TME4): research question and dataset}\\[0.2ex]
+{\small Group: Charbel A. Dargham (solo, scope approved by the instructor) \quad\textperiodcentered\quad TME1}
+\end{center}
+
+\section{Research question}
+
+\emph{Can the underlying structure of a learning problem predict, before training, whether structure-preserving
+quantum models of it will be trainable and resist dequantization?} Structure-free quantum circuits become
+untrainable as they grow, their gradients vanishing exponentially with the number of qubits (McClean et al.\
+2018); building a problem's symmetry into the circuit keeps them trainable (Larocca et al.\ 2022), but can
+also let a classical computer imitate the model (Cerezo et al.\ 2025). Which side a problem lands on is today
+known only after a model is built and run. We ask whether it can be read off the problem itself, from four
+kinds of structure: symmetry, locality, spectrum and data complexity. This deliverable builds the first
+ingredient, a large and varied collection of real learning problems with their structure extracted.
+
+\section{Data collection}
+
+The unit of observation is a \emph{problem}: one binary learning task on $n$ sites, with its labelled inputs,
+a TRAIN/TEST split and its label rule. Each input $x$ is stored with an operator $M(x)$, and the operator fixes
+the problem's type (Table~\ref{tab:types}): a graph Laplacian defines a heat equation on the graph, a precision
+matrix (inverse covariance) an Ornstein--Uhlenbeck process, and a Hamiltonian a Schr\"odinger equation. The type
+depends on the mathematics, not the domain: a MaxCut instance encodes like a graph, while a 3-SAT formula has
+three-site terms a graph cannot have. Sizes run from $n = 4$, below which almost every structure is trivial, to
+$n = 12$, where states still have only $2^{12} = 4096$ amplitudes and exact simulation stays cheap.
+
+\begin{table}[h]
+\centering\small
+\caption{Types, sources and counts. Groups are independent sources (one dataset, network or generator).}\label{tab:types}
+\begin{tabularx}{\linewidth}{@{}l l Y r r r@{}}
+\toprule
+Type & Operator $M(x)$ & Sources and collection & Problems & Groups & Samples\\
+\midrule
+GRAPH & graph Laplacian & 20 real networks (Netzschleuder API: biology, social, infrastructure, technology), cut into connected pieces of $n$ nodes; real molecules (Alchemy, ZINC via TUDataset) & 345 & 22 & 100\,782\\
+COVARIANCE & precision matrix & EEG motor imagery (MOABB API: BNCI2014\_001, Cho2017), one problem per subject and session; 9 sensor datasets (UEA archive) & 404 & 11 & 87\,992\\
+DIAGONAL & clause-penalty Hamiltonian & SAT formulas from 11 standard generators (random $k$-SAT, XOR, NAE, planted, community, SR) & 358 & 11 & 107\,400\\
+QUANTUM & Hamiltonian, ground state & 8 spin-chain models (exact ground states on both sides of a phase transition); 6 molecules (Hartree--Fock, Jordan--Wigner) & 261 & 14 & 41\,756\\
+\midrule
+Total & & & 1\,368 & 58 & 337\,930\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Each source was listed, screened, downloaded (with a file hash) and converted by a logged pipeline; every
+rejection is recorded with its reason (for the real networks, 892 candidates were checked and 307 kept). A
+candidate problem was kept only if it had at least 100 samples, so that TEST holds enough samples to measure an
+accuracy; at least 50 distinct inputs, since a benchmark such as IMDB-MULTI at $n = 7$ holds 332 graphs but only
+10 different ones; and at most 20\% of equal inputs carrying different labels, beyond which the label is no
+longer a function of the input. Labels are either given by the source or computed exactly from the input; when a
+source gives a score, the label is $+1$ above the TRAIN median, so the TEST data never influence the cut. In 51
+problems (42 COVARIANCE, 9 GRAPH) the share of $+1$ labels fell outside $[0.2, 0.8]$, and the majority class was
+randomly reduced to the size of the minority class; each problem records what was done. The split is 70/30 by
+convention; it is stratified (same class proportions on both sides) and made by unit, so that samples derived
+from one original (two crops of one EEG trial) never straddle it. Real inputs make up 749 problems (55\%); the
+SAT and spin-chain problems are generated from standard models, because in these domains generated instances
+are how problems are produced, and every problem carries its origin.
+
+\section{Variables}
+
+The variables are a profile of about a dozen numbers per input, grouped under the four structures. A problem is
+then a cloud of such profiles, one per input, and how to summarise that cloud is an open question, deferred to
+the analysis. Each problem records its type, $n$, number of samples, split, class balance, label rule, number of distinct
+inputs, conflict rate, source, group, origin, and an equation check (0 failures in all 1\,368 problems). Each
+sample records an input $x$, its operator $M(x)$ and its label. Type, label rule, source, group, origin and
+the label ($\pm1$) are categorical; $n$, the counts, the rates and every structure variable are numerical. The structure variables (Table~\ref{tab:vars})
+are computed \emph{per input}, from the \emph{factor graph} of $M(x)$: a bipartite graph with one node per site
+and one per term, a term joined to every site it acts on. It is the standard site-level object for a sum of
+terms (Kschischang et al.\ 2001), and unlike a pairwise coupling matrix it keeps many-body terms apart from
+pairwise ones. Weights are divided by the largest, so no variable depends on units.
+
+\begin{table}[h]
+\centering\small
+\caption{Structure variables, one value per input, grouped by the four kinds of structure.}\label{tab:vars}
+\begin{tabularx}{\linewidth}{@{}l >{\raggedright\arraybackslash}p{5.2cm} Y@{}}
+\toprule
+Structure & Variable & Meaning\\
+\midrule
+Symmetry & symmetry classes, fraction & how many sites look alike under colour refinement (1: all alike, 0: none); exact equality of weights, and an upper bound on true symmetry (Grohe et al.\ 2017)\\
+Locality & terms per site; term sizes & interactions per site; whether terms are pairwise or many-body\\
+ & site degree spread; support density & whether a few sites dominate; how far interactions reach\\
+Spectrum & spectral entropy; participation ratio & how many Laplacian modes of the factor graph carry its weight\\
+ & algebraic connectivity & how hard the factor graph is to cut in two\\
+ & operator spectrum (GRAPH, COVARIANCE) & entropy and gap ratio of the eigenvalues of $M(x)$ itself\\
+Data complexity & entanglement (QUANTUM); effective rank (COVARIANCE) & half-chain entropy of the ground state; number of effectively independent channels\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+The factor-graph spectrum is a proxy: it describes which sites the terms connect, while the spectrum of $M(x)$
+itself is available for GRAPH and COVARIANCE only. Data complexity is defined on the encoded quantum state of
+each input; for GRAPH and DIAGONAL it is computed at the encoding stage, after this deliverable. The
+type-specific variables are therefore missing by design wherever they do not exist (entanglement outside
+QUANTUM, effective rank outside COVARIANCE, the operator spectrum outside GRAPH and COVARIANCE): the missingness
+is set by the type, not by chance, so these variables are compared within a type only.
+
+\emph{The dataset as a whole.} The types occupy different regions of this space, partly by construction. GRAPH
+operators have pairwise terms only, and their density and symmetry vary with the real network they come from.
+COVARIANCE operators connect every pair of channels, so their locality is uniform and their symmetry is zero by
+exact equality: their structure lies in the weights, the partial correlations. DIAGONAL operators carry terms of
+up to $k$ sites, set by the generator, so their structure is predictable from its parameters. Spin chains have
+one- and two-site terms (three for the cluster model) and full symmetry when periodic; molecules have terms
+spanning up to all $n$ sites.
+\section{Preprocessing and choices}
+
+The raw harvest (1\,379 problems) is never modified; a script with six stated rules builds the final dataset
+from it, and the raw files' checksum is identical before and after. An audit found 0 structural failures and
+five problems in the content, each handled by one choice. Identical inputs on both sides of the split, in 22
+problems, would leak TEST into TRAIN: these problems were re-split with identical inputs kept on one side,
+rather than deduplicated, which would have changed the population, and repeated inputs are weighted so that
+each counts once in TEST. One problem below the class-balance floor was excluded. In 24\% of spin-chain
+samples the ground state was degenerate, so the stored state was arbitrary: the spin chains were re-harvested
+with ground states fixed inside a symmetry sector. Two molecule geometries whose Hartree--Fock calculation did
+not converge were removed. Finally, 475 sensor samples whose operator collapses to the identity carry no
+information and act as a label shortcut; they are flagged rather than removed, and every result is reported with
+and without them. The periodic XY spin chains (10 candidate problems) are not part of the dataset: the
+eigensolver failed on one sample whose excited levels nearly coincide, and the pipeline rejected the whole
+family, as designed. The final dataset passes the audit with 0 failures and 0 leaks.
+
+\section{Conclusion and next steps}
+
+The dataset gathers 1\,368 binary learning problems of four mathematical types, each input stored with the
+operator that defines its equation and each step from source to final file logged and checked. Its strengths
+are its breadth (58 independent sources, 55\% of problems on real inputs) and its traceability: every rejection,
+re-split, exclusion and flag can be read back. Its limits are stated with it. The effective sample size is set by
+the groups, not the problems, and it is uneven: 350 of the 404 COVARIANCE problems come from two EEG datasets.
+The DIAGONAL and most QUANTUM problems are generated from standard models. Data complexity is measured for two
+types only so far. The next steps follow the chain of the research question. First, decide how the per-input
+values of one problem are summarised into one profile, after plotting their distributions to check whether they
+form one group or several within a problem, which a single summary would hide. Second, build a first instance of a Logical State Space $L = (C; F; \Phi)$, the
+construction of the author's ongoing research, intended as the bridge between a problem and its circuit. A
+predictor alone can only show that structure and outcome are correlated; $L$ gives every problem one common
+medium in which that correlation can be explained in mathematical terms, as connectomics relates a brain's
+behaviour to its wiring, a link that for model neural networks is a theorem (Curto, Geneson \& Morrison 2018). In this first instance, $C$ is
+the simplicial complex generated by the terms of each factor graph, $F$ the constant sheaf over it, and $\Phi$
+diffusion under its Hodge Laplacians, whose non-decaying modes count the holes of $C$ (Eckmann 1944), a theorem
+that ties structure to dynamics. Circuits are then generated from $L$, each of the four structures entering as a
+separate ingredient, so that circuits built with and without each one measure its effect; the inputs are
+encoded and the data-complexity variables completed. Third, simulate the circuits and measure trainability, through gradient variance and the dimension of
+the dynamical Lie algebra (Ragone et al.\ 2024), and classical simulability (Cerezo et al.\ 2023). Last, learn
+the predictor from structure to these measurements, validated by holding out whole sources.
+
+\end{document}
